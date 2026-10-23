@@ -354,7 +354,7 @@ body { font-family:var(--sans); background:var(--bg); color:var(--text); line-he
 
   <!-- 历史 -->
   <div class="card" id="historySection">
-    <div class="section-title"><span class="num">📚</span>历史案例</div>
+    <div class="section-title"><span class="num">📚</span>历史案例 <span style="font-size:12px;color:var(--text3);font-weight:400">（共 73 个真实案例 · 点任意一个，上方立即展开完整运行过程与三层评测）</span></div>
     <div id="historyList"><div class="loading-box"><div class="loading-dots"><span></span><span></span><span></span></div>加载中</div></div>
   </div>
 
@@ -397,6 +397,25 @@ function humanScoreOf(cid) {
   if (e.human && e.human.overall_score != null) return e.human.overall_score;
   return null;
 }
+
+/* 静态版：挑一个最有代表性的案例，首屏直接展示完整工作台 */
+function pickShowcaseCase(){
+  var ids=sortedCaseIds(), best=null, bestScore=-1;
+  ids.forEach(function(cid){
+    var s=0;
+    var e=DB.evals[cid]||{};
+    if(e.rule&&e.rule.overall_score!=null)s+=e.rule.overall_score;
+    if(e.llm)s+=20;
+    var t=DB.traces[cid];
+    if(t&&t.steps)s+=Math.min(t.steps.length,30)/3;
+    var c=DB.cases[cid]||{};var r=c.result||c;
+    if(r.script&&r.script.titles)s+=10;
+    if(r.storyboard&&r.storyboard.shots)s+=Math.min(r.storyboard.shots.length,12)/2;
+    if(s>bestScore){bestScore=s;best=cid}
+  });
+  return best;
+}
+
 function sortedCaseIds() {
   return Object.keys(DB.cases).sort().reverse();
 }
@@ -869,8 +888,12 @@ function loadConfig(){
   })();
 }
 
-// 初始化
+// 初始化：静态版首屏直接展示一个完整案例
 loadHistory(); loadCalibLog(); loadConfig();
+loadDB().then(function(){
+  var cid=pickShowcaseCase();
+  if(cid) loadCase(cid);
+});
 // URL 参数 ?case=xxx 自动加载案例(方便截图/分享)
 (function(){var m=location.search.match(/[?&]case=([^&]+)/);if(m){loadCase(decodeURIComponent(m[1]))}})();
 
