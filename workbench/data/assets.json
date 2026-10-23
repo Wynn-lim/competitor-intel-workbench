@@ -1,0 +1,4430 @@
+{
+ "feature_matrix": {
+  "dimensions": [
+   "研发工时 过程留痕不可篡改",
+   "研发人员全时 / 非全时认定与 50% 占比预警",
+   "多口径 （会计 / 高企 / 加计扣除）",
+   "IPO 口径 / 发行类第 9 号",
+   "辅助账 / A107012 自动生成",
+   "备查文档批量生成与归档",
+   "证据链一键导出（问询可引用）",
+   "五维 / 多维穿透归集",
+   "物料/样品/边角料冲减",
+   "银税直连",
+   "跨 ERP 中立（多体系并存）",
+   "不绑申报代理（独立性可签承诺）",
+   "从业年限 / 积淀",
+   "IPO 案例密度（公开可证）"
+  ],
+  "rows": [
+   {
+    "dimension": "研发工时 过程留痕不可篡改",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提工时留痕）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提工时留痕）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "unknown",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "yes",
+     "xinlianyun": {
+      "value": "yes",
+      "basis": "7.2「立项—工时—费用归集—证据链—政策申报一体化」（证据链在其产品功能内）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "yes",
+     "noming": "yes",
+     "weila": "yes",
+     "fangxinjiuou": {
+      "value": "partial",
+      "basis": "报告 7.14（报价最透明的一家；档案未单列工时留痕）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "no",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xiaoyantong": {
+      "value": "yes",
+      "basis": "7.6 定位特征「人员行为一致性 / 全链条留痕」",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "gaojingyanguanjia": {
+      "value": "unknown",
+      "basis": "报告 7.16（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网定位为 IPD 研发项目管理平台，无该能力表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（产品页为项目/成本核算，无工时过程留痕能力表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "yes",
+      "basis": "报告 7.8「全流程留痕」",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "partial",
+      "basis": "对比模板_优赛云.docx.md「人工费用分摊：按研发工时/比例分摊，支持工时导入」（有工时归集，未称过程留痕不可篡改）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "na",
+      "basis": "报告 7.20（定位为高企认定+政策申报服务，非研发费过程管理系统）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "yes",
+      "basis": "报告 7.17「研发工时可视化分摊」",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提工时留痕）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "yes",
+      "basis": "报告附录一第 21 行「一体化项目管理 + 工时管理（PPM/工时/成本）」；第四章 389 行「工时与 WBS/成本中心/财务实时联动」",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "yes",
+      "basis": "报告附录一第 94 行「六大模块（工时、物资溯源、证据链、多口径报表、驾驶舱、风险预警）」",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "no",
+      "basis": "报告附录一第 31 行（定位为 AI 费控 + 云财务，未提研发工时留痕）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "yes",
+      "basis": "官网原文「实时校验费用归集边界、工时分摊比例、项目匹配关系」「线上工时填报」",
+      "collected": "2026-09-23",
+      "source_level": "A",
+      "revised_by": "M17 联网素材重判"
+     },
+     "qichengzhiyuan": {
+      "value": "partial",
+      "basis": "7.9 定位「事前防控 + 全程留痕 + 闭环合规」，但语境为补贴申报而非工时过程",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "研发人员全时 / 非全时认定与 50% 占比预警",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "no",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "yes",
+     "xinlianyun": {
+      "value": "unknown",
+      "basis": "已读 7.2，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "partial",
+     "noming": "partial",
+     "weila": "partial",
+     "fangxinjiuou": {
+      "value": "unknown",
+      "basis": "报告 7.14（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "no",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无该能力表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无全时/非全时认定与占比预警表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "unknown",
+      "basis": "报告 7.8（档案未提及全时/非全时认定）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "no",
+      "basis": "对比模板_优赛云.docx.md（优赛云侧无全时/非全时区分相关表述，为我方差异点）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "na",
+      "basis": "报告 7.20（同上，非其产品范畴）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "unknown",
+      "basis": "报告 7.16（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "partial",
+      "basis": "报告 7.17「研发工时可视化分摊」（有分摊，未称全时/非全时认定与占比预警）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "unknown",
+      "basis": "报告附录一第 21 行（未提全时/非全时认定）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "unknown",
+      "basis": "报告附录一第 94 行（未提全时/非全时认定）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "no",
+      "basis": "报告附录一第 31 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "unknown",
+      "basis": "已读 7.4，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "xiaoyantong": {
+      "value": "unknown",
+      "basis": "已读 7.6，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qichengzhiyuan": {
+      "value": "unknown",
+      "basis": "已读 7.9，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "多口径 （会计 / 高企 / 加计扣除）",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "partial",
+      "basis": "报告 7.10（用友为 ERP 厂商，财务口径为其主场；档案未称研发多口径报表）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "partial",
+      "basis": "报告 7.11（金蝶核心服务商页面为归集知识科普，非产品能力声明；按 ERP 财务主场记 partial）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "yes",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "yes",
+     "xinlianyun": {
+      "value": "yes",
+      "basis": "7.2 主打「管理+技术+财务+政策」四维；主讲内容逐项覆盖辅助账设置、研发人员工时分摊",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "yes",
+     "noming": "partial",
+     "weila": "partial",
+     "fangxinjiuou": {
+      "value": "partial",
+      "basis": "报告 7.14（财税背景厂商，口径为其主场；未称研发多口径报表）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "partial",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "yes",
+      "basis": "官网原文「智能匹配税务、高新、IPO 多套核算口径」「IPO 财报、高新认定、研发加计扣除、内审底稿四账合一标准化落地」（经济晚报网 2026 通稿，与官网一致）",
+      "collected": "2026-09-23",
+      "source_level": "A",
+      "revised_by": "M17 联网素材重判"
+     },
+     "qichengzhiyuan": {
+      "value": "partial",
+      "basis": "7.9 定位为惠企补贴 + 政企培训 + 科创资质认定，涉及多类政策口径但未称多口径报表",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无研发费用归集/加计扣除口径相关能力）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无会计/高企/加计扣除多口径表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "partial",
+      "basis": "报告 7.8「审计+税务双重视角」+「自动台账」（口径并存但未称多口径报表自动生成）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "partial",
+      "basis": "对比模板_优赛云.docx.md「合规覆盖范围：支持加计扣除、高企认定基础合规，无 IPO 专项支持」",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "partial",
+      "basis": "报告 7.20「高企认定+政策申报」（有申报口径服务，未称多口径报表自动生成）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "partial",
+      "basis": "报告 7.16（研值管家研发管理系统 + 创新易云 SaaS 含研发经费管理，未称多口径报表）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "yes",
+      "basis": "报告 7.17「一键多口径报表」",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "partial",
+      "basis": "报告 7.17「研发费加计扣除智能化产品」（主打加计扣除单口径，未称多口径）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "unknown",
+      "basis": "报告附录一第 21 行（定位为 PPM/工时/成本，未提研发多口径）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "yes",
+      "basis": "报告附录一第 94 行「多口径报表」",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "partial",
+      "basis": "报告附录一第 31 行「业财税档原生一体化」（有业财档一体，未称研发多口径）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xiaoyantong": {
+      "value": "unknown",
+      "basis": "已读 7.6，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "IPO 口径 / 发行类第 9 号",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提 IPO 口径）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "yes",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "yes",
+     "xinlianyun": {
+      "value": "no",
+      "basis": "7.2 定位为政府/园区研发投入统计核算与技术鉴定支撑，未涉 IPO 口径",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "yes",
+     "noming": "yes",
+     "weila": "yes",
+     "fangxinjiuou": {
+      "value": "unknown",
+      "basis": "报告 7.14（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "no",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xiaoyantong": {
+      "value": "partial",
+      "basis": "母体上海念桐企业咨询有限公司工商信息（百度百科词条，C 级仅作规模/主体佐证）：为上市公司、拟上市公司、国有企业、投融资机构和政府部门提供资本市场设计、规范辅导、交易支持、并购重组、投融资顾问及数字化转型咨询；参保 32 人（2024）；分支 9 地；咨询端有 IPO 辅导能力，但研发系统端是否按发行类第 9 号口径出表未见明示，判 partial",
+      "collected": "2026-09-23",
+      "source_level": "A",
+      "revised_by": "M17 联网素材重判"
+     },
+     "yuanfangshuju": "yes",
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无 IPO 口径相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无 IPO 口径相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "no",
+      "basis": "报告 7.8 劣势：缺少 200+ IPO 案例，档案未提 IPO 口径报表",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "no",
+      "basis": "对比模板_优赛云.docx.md 原文：无 IPO 专项支持",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "na",
+      "basis": "报告 7.20（非其产品范畴）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "unknown",
+      "basis": "报告 7.16（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "partial",
+      "basis": "报告 7.17「主打 IPO / 高企 / 加计扣除」（称主打，未称 IPO 口径报表）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "unknown",
+      "basis": "报告附录一第 21 行（未提 IPO 口径）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "unknown",
+      "basis": "报告附录一第 94 行（未提 IPO 口径）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "unknown",
+      "basis": "报告附录一第 31 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "yes",
+      "basis": "官网原文「智能匹配税务、高新、IPO 多套核算口径」「IPO 财报、高新认定、研发加计扣除、内审底稿四账合一标准化落地」（经济晚报网 2026 通稿，与官网一致）；四账合一含 IPO 财报口径",
+      "collected": "2026-09-23",
+      "source_level": "A",
+      "revised_by": "M17 联网素材重判"
+     },
+     "qichengzhiyuan": {
+      "value": "no",
+      "basis": "7.9 其劣势原文：产品在「补贴申报」语境下更强调材料生成，IPO 问询责任层弱",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "辅助账 / A107012 自动生成",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "yes",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "yes",
+     "xinlianyun": {
+      "value": "partial",
+      "basis": "7.2「辅助账设置」为培训讲授内容，未称自动生成",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "yes",
+     "noming": "partial",
+     "weila": "no",
+     "fangxinjiuou": {
+      "value": "unknown",
+      "basis": "报告 7.14（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "partial",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无税务辅助账/A107012 相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无税务辅助账/A107012 相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "unknown",
+      "basis": "报告 7.8（档案未提辅助账/A107012）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "partial",
+      "basis": "对比模板_优赛云.docx.md「报表类型：加计扣除汇总表」（有汇总表，未称辅助账/A107012 自动生成）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "na",
+      "basis": "报告 7.20（非其产品范畴）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "unknown",
+      "basis": "报告 7.16（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提辅助账/A107012）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "unknown",
+      "basis": "报告附录一第 21 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "unknown",
+      "basis": "报告附录一第 94 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "unknown",
+      "basis": "报告附录一第 31 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "yes",
+      "basis": "官网原文「智能匹配税务、高新、IPO 多套核算口径」「IPO 财报、高新认定、研发加计扣除、内审底稿四账合一标准化落地」（经济晚报网 2026 通稿，与官网一致）",
+      "collected": "2026-09-23",
+      "source_level": "A",
+      "revised_by": "M17 联网素材重判"
+     },
+     "xiaoyantong": {
+      "value": "unknown",
+      "basis": "已读 7.6，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qichengzhiyuan": {
+      "value": "unknown",
+      "basis": "已读 7.9，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "备查文档批量生成与归档",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "partial",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "yes",
+     "xinlianyun": {
+      "value": "unknown",
+      "basis": "已读 7.2，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "partial",
+     "noming": "partial",
+     "weila": "partial",
+     "fangxinjiuou": {
+      "value": "unknown",
+      "basis": "报告 7.14（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "partial",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无备查文档生成归档相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无备查文档生成归档相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "yes",
+      "basis": "报告 7.8「全周期数字化存证平台」+「大模型自动生成立项报告/计划书」",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "partial",
+      "basis": "对比模板_优赛云.docx.md「研发过程材料管理：提供阶段化模板（立项报告/过程文档）、支持批量提交审核」（有模板，未称备查资料一键下载）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "partial",
+      "basis": "报告 7.20「免申即享」平台（有材料申报服务，非系统化备查归档）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "unknown",
+      "basis": "报告 7.16（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "unknown",
+      "basis": "报告附录一第 21 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "unknown",
+      "basis": "报告附录一第 94 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "yes",
+      "basis": "报告第四章 430 行「档案合规 + 费用归集原生一体（档案局试点）」——对应备查文档留存能力",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "yes",
+      "basis": "官网原文「留存工时单、领料单、立项报告、验收文档等完整证据链」",
+      "collected": "2026-09-23",
+      "source_level": "A",
+      "revised_by": "M17 联网素材重判"
+     },
+     "xiaoyantong": {
+      "value": "unknown",
+      "basis": "已读 7.6，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qichengzhiyuan": {
+      "value": "partial",
+      "basis": "7.9「更强调材料生成」（其劣势原文），未称备查文档归档",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "证据链一键导出（问询可引用）",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "yes",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "yes",
+     "xinlianyun": {
+      "value": "yes",
+      "basis": "7.2「证据链」列为其产品功能模块之一",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "yes",
+     "noming": "partial",
+     "weila": "partial",
+     "fangxinjiuou": {
+      "value": "unknown",
+      "basis": "报告 7.14（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "no",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xiaoyantong": {
+      "value": "partial",
+      "basis": "7.6「全链条留痕」为概念表达，未称一键导出",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无税务证据链导出相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无税务证据链导出相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "partial",
+      "basis": "报告 7.8「全流程留痕」（有留痕，未称问询可引用导出）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "no",
+      "basis": "对比模板_优赛云.docx.md 原文：支持过程材料上传，但无自动关联凭证",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "na",
+      "basis": "报告 7.20 原文：不做合规责任交付",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "unknown",
+      "basis": "报告 7.16（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "partial",
+      "basis": "报告 7.17「金税四期 AI 风险扫描」（有风险扫描，未称问询可引用导出）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "unknown",
+      "basis": "报告附录一第 21 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "yes",
+      "basis": "报告附录一第 94 行「证据链」",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "unknown",
+      "basis": "报告附录一第 31 行（未称问询可引用）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "yes",
+      "basis": "官网原文「全流程电子化留存工时单、领料单、立项报告、验收文档等完整证据链，资料永久存证」",
+      "collected": "2026-09-23",
+      "source_level": "A",
+      "revised_by": "M17 联网素材重判"
+     },
+     "qichengzhiyuan": {
+      "value": "no",
+      "basis": "7.9 IPO 问询责任层弱（其劣势原文），证据链一键导出不属其能力描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "五维 / 多维穿透归集",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "partial",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "partial",
+     "xinlianyun": {
+      "value": "unknown",
+      "basis": "已读 7.2，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "partial",
+     "noming": "partial",
+     "weila": "no",
+     "fangxinjiuou": {
+      "value": "unknown",
+      "basis": "报告 7.14（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "partial",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无研发费用穿透归集相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无研发费用穿透归集相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "unknown",
+      "basis": "报告 7.8（档案未提穿透归集）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "no",
+      "basis": "对比模板_优赛云.docx.md「费用归集维度：按项目/月份归集」（单维，非多维穿透）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "na",
+      "basis": "报告 7.20（非其产品范畴）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "partial",
+      "basis": "报告 7.16（创新易云含研发项目管理 + 研发经费管理 + 政府项目申报一体化）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "partial",
+      "basis": "报告第四章 389 行「工时与 WBS/成本中心/财务实时联动」（多维度联动，非研发费穿透归集）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "unknown",
+      "basis": "报告附录一第 94 行（未提穿透归集）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "unknown",
+      "basis": "报告附录一第 31 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "unknown",
+      "basis": "已读 7.4，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "xiaoyantong": {
+      "value": "unknown",
+      "basis": "已读 7.6，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qichengzhiyuan": {
+      "value": "unknown",
+      "basis": "已读 7.9，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "物料/样品/边角料冲减",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "no",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "yes",
+     "xinlianyun": {
+      "value": "unknown",
+      "basis": "已读 7.2，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "partial",
+     "noming": "partial",
+     "weila": "no",
+     "fangxinjiuou": {
+      "value": "unknown",
+      "basis": "报告 7.14（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "no",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无物料冲减相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无物料冲减相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "unknown",
+      "basis": "报告 7.8（档案未提物料冲减）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "no",
+      "basis": "对比模板_优赛云.docx.md 原文：支持物料领用/导入、分项目关联，无明确废料管理",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "na",
+      "basis": "报告 7.20（非其产品范畴）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "unknown",
+      "basis": "报告 7.16（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "unknown",
+      "basis": "报告附录一第 21 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "partial",
+      "basis": "报告附录一第 94 行「物资溯源」（有溯源，未称废料/样品冲减）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "no",
+      "basis": "报告附录一第 31 行（费控定位，未提研发物料冲减）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "unknown",
+      "basis": "已读 7.4，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "xiaoyantong": {
+      "value": "unknown",
+      "basis": "已读 7.6，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qichengzhiyuan": {
+      "value": "unknown",
+      "basis": "已读 7.9，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "银税直连",
+    "values": {
+     "own": "no",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "no",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "no",
+     "xinlianyun": {
+      "value": "unknown",
+      "basis": "已读 7.2，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "no",
+     "noming": "no",
+     "weila": "no",
+     "fangxinjiuou": {
+      "value": "partial",
+      "basis": "报告 7.14（财税厂商背景，档案未明示直连能力）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "no",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "na",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无银税直连相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "na",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无银税直连相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "unknown",
+      "basis": "报告 7.8（档案未提银税直连）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "no",
+      "basis": "对比模板_优赛云.docx.md（通篇未提银税直连）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "na",
+      "basis": "报告 7.20（非其产品范畴）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "unknown",
+      "basis": "报告 7.16（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "partial",
+      "basis": "报告 7.17「金税四期 AI 风险扫描」（有金税四期相关能力，未称直连）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "unknown",
+      "basis": "报告附录一第 21 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "unknown",
+      "basis": "报告附录一第 94 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "unknown",
+      "basis": "报告附录一第 31 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "unknown",
+      "basis": "已读 7.4，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "xiaoyantong": {
+      "value": "unknown",
+      "basis": "已读 7.6，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qichengzhiyuan": {
+      "value": "unknown",
+      "basis": "已读 7.9，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "跨 ERP 中立（多体系并存）",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "no",
+      "basis": "报告 7.10（用友自身即 ERP 厂商，多体系并存非其立场）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "no",
+      "basis": "报告 7.11（金蝶自身即 ERP 厂商）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "no",
+     "hande": {
+      "value": "partial",
+      "basis": "报告 7.12（汉得为实施服务商，多 ERP 并存是其常态场景）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "partial",
+     "xinlianyun": {
+      "value": "yes",
+      "basis": "7.2 客户分区含企业侧配套系统，并承接央企研发统计核算，不绑定单一申报代理",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "partial",
+     "noming": "yes",
+     "weila": "yes",
+     "fangxinjiuou": {
+      "value": "unknown",
+      "basis": "报告 7.14（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "partial",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "yes",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网「B/S 架构 / 自主知识产权 NutScript 脚本引擎」，自研引擎不绑单一 ERP）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "unknown",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无 ERP 体系兼容性表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "no",
+      "basis": "报告 7.8 劣势原文：缺少跨 ERP 中立性",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "unknown",
+      "basis": "对比模板_优赛云.docx.md 原文：未明确提及与 ERP/SAP 集成",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "na",
+      "basis": "报告 7.20（非其产品范畴）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "unknown",
+      "basis": "报告 7.16（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "unknown",
+      "basis": "报告 7.17（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "partial",
+      "basis": "报告第四章 389 行「工时与 WBS/成本中心/财务实时联动」（项目/财务多系统联动）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "unknown",
+      "basis": "报告附录一第 94 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "partial",
+      "basis": "报告第四章 432 行（汇联易 ERP 对接能力强；每刻同属费控派，业财税档一体）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "yes",
+      "basis": "7.4 无申报代理绑定记录，AI 核算 + RFID 资产 + 智算一体机为独立产品",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "xiaoyantong": {
+      "value": "partial",
+      "basis": "7.6 为咨询机构自研系统，服务路径为念桐咨询→创投→被投企业，非跨 ERP 中立定位",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qichengzhiyuan": {
+      "value": "unknown",
+      "basis": "已读 7.9，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "不绑申报代理（独立性可签承诺）",
+    "values": {
+     "own": "yes",
+     "yongyou": {
+      "value": "unknown",
+      "basis": "报告 7.10（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "jindie": {
+      "value": "unknown",
+      "basis": "报告 7.11（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhishikai": "yes",
+     "hande": {
+      "value": "unknown",
+      "basis": "报告 7.12（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "taikesi": "no",
+     "xinlianyun": {
+      "value": "no",
+      "basis": "7.2 承办区级科工信局加计扣除培训并附自家品牌文案，身份为政策承办方",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "yes",
+     "noming": "yes",
+     "weila": "yes",
+     "fangxinjiuou": {
+      "value": "unknown",
+      "basis": "报告 7.14（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "hesi": "yes",
+     "yanbangzhu": {
+      "value": "unknown",
+      "basis": "报告 7.15（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "eipd": {
+      "value": "unknown",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无独立性/申报代理绑定相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "unknown",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无独立性/申报代理绑定相关表述）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qidianzhongkewei": {
+      "value": "no",
+      "basis": "报告 7.8 原文：出题人与答题人是同一家 —— 不签独立性承诺书",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yousairderp": {
+      "value": "unknown",
+      "basis": "对比模板_优赛云.docx.md（未提申报代理绑定/独立性）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhenghe": {
+      "value": "no",
+      "basis": "报告 7.20 原文：不做合规责任交付（其自身即申报服务方）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "gaojingyanguanjia": {
+      "value": "no",
+      "basis": "报告 7.16（其自身即科技服务体系/政府项目申报服务方）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "huayang": {
+      "value": "unknown",
+      "basis": "报告 7.19（档案未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "zhiyanshuitong": {
+      "value": "no",
+      "basis": "报告 7.17（面向会计师事务所/税务师事务所/咨询机构白标合作，其客户即申报鉴证方）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "xinyanbao": {
+      "value": "no",
+      "basis": "报告 7.17（与立信税务师事务所共有软著，著作权人为立信税务师事务所 + 上海立信序伦）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "8manage": {
+      "value": "unknown",
+      "basis": "报告附录一第 21 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanwuyou": {
+      "value": "no",
+      "basis": "报告附录一第 94 行「财税专家驻点陪跑」+ 主体为成都全税合规科技（财税服务方）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "meikekeji": {
+      "value": "unknown",
+      "basis": "报告附录一第 31 行（未提）",
+      "source_level": "B",
+      "collected": "2026-09-18"
+     },
+     "yanfamao": {
+      "value": "unknown",
+      "basis": "已读 7.4，该维度无描述",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "xiaoyantong": {
+      "value": "no",
+      "basis": "母体上海念桐企业咨询有限公司工商信息（百度百科词条，C 级仅作规模/主体佐证）：为上市公司、拟上市公司、国有企业、投融资机构和政府部门提供资本市场设计、规范辅导、交易支持、并购重组、投融资顾问及数字化转型咨询；参保 32 人（2024）；分支 9 地；研发系统由该咨询主体自行开发（同属一体，无法签独立性承诺）",
+      "collected": "2026-09-23",
+      "source_level": "A",
+      "revised_by": "M17 联网素材重判"
+     },
+     "qichengzhiyuan": {
+      "value": "no",
+      "basis": "7.9 自身即政企补贴申报渠道方，与申报服务绑定",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "从业年限 / 积淀",
+    "values": {
+     "own": "unknown",
+     "yongyou": "unknown",
+     "jindie": "unknown",
+     "zhishikai": "unknown",
+     "hande": "unknown",
+     "taikesi": "unknown",
+     "xinlianyun": {
+      "value": "partial",
+      "basis": "7.2 所属公司深圳市维度数据科技股份有限公司，2000 年成立",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "unknown",
+     "noming": "unknown",
+     "weila": "unknown",
+     "fangxinjiuou": "unknown",
+     "hesi": "unknown",
+     "yanbangzhu": "unknown",
+     "eipd": {
+      "value": "unknown",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网未披露成立年份）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "unknown",
+      "basis": "https://aceteamwork.com/products/aceauto（官网未披露成立年份）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "yanfamao": {
+      "value": "no",
+      "basis": "7.4 所属公司拓银数科（新拓银），2023 年成立",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "xiaoyantong": {
+      "value": "partial",
+      "basis": "7.6 平台 2023 年发布；公司成立年待核，上期建议标注 2018-09-13",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qichengzhiyuan": {
+      "value": "yes",
+      "basis": "7.9 启程智远集团 2004 年成立，深圳启程智远网络科技有限公司 2015 年",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "zhenghe": {
+      "value": "partial",
+      "basis": "7.20 政和科技股份有限公司，2008 始创 / 2014 股份，济南",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   },
+   {
+    "dimension": "IPO 案例密度（公开可证）",
+    "values": {
+     "own": "unknown",
+     "yongyou": "unknown",
+     "jindie": "unknown",
+     "zhishikai": "unknown",
+     "hande": "unknown",
+     "taikesi": "unknown",
+     "xinlianyun": {
+      "value": "partial",
+      "basis": "7.2 2026-08-28 中标南方电网研发投入统计复核研究项目（非 IPO 案例，但为公开中标记录）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "jinchengzhiyan": "partial",
+     "noming": "unknown",
+     "weila": "unknown",
+     "fangxinjiuou": "unknown",
+     "hesi": "unknown",
+     "yanbangzhu": "unknown",
+     "eipd": {
+      "value": "unknown",
+      "basis": "http://eipd.com.cn/AboutUs.asp（官网无 IPO 案例披露）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "aceteamwork": {
+      "value": "unknown",
+      "basis": "https://aceteamwork.com/products/aceauto（官网无 IPO 案例披露）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "yanfamao": {
+      "value": "no",
+      "basis": "已读 7.4，未见公开可证的 IPO 案例",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "xiaoyantong": {
+      "value": "unknown",
+      "basis": "已读 7.6，该维度无描述（案例密度与我方 200+ 有差距，但未给对手自身数字）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "qichengzhiyuan": {
+      "value": "partial",
+      "basis": "7.9 2026-08-25 中标广州白云山制药总厂国债申报咨询（非 IPO，但为公开中标记录）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     },
+     "zhenghe": {
+      "value": "partial",
+      "basis": "7.20 09 月起承办山东省 16 地市巡回行动；events.json 另有三条中标记录（中铝山东/西藏经信厅/济南发改委）",
+      "source_level": "B",
+      "collected": "2026-09-23"
+     }
+    }
+   }
+  ],
+  "_meta": {
+   "从业年限 / 积淀": {
+    "own": "2018 起",
+    "yongyou": "报告 7.10 / 8.1（1988 年起）",
+    "jindie": "报告 7.11 / 8.1（1993 年起）",
+    "zhishikai": "2009 起",
+    "hande": "报告 7.12 / 8.1（2002 年起）",
+    "taikesi": "2019 起",
+    "xinlianyun": {
+     "text": "2000 年起（母公司）",
+     "basis": "7.2 所属公司：深圳市维度数据科技股份有限公司，2000 年成立",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "jinchengzhiyan": "2021 起",
+    "noming": "2003 起",
+    "weila": "约 2022 起",
+    "fangxinjiuou": "报告 7.14 / 8.1（1998 年起）",
+    "hesi": "2014 起",
+    "yanbangzhu": "报告 7.15 / 8.1（2013 年起）",
+    "qidianzhongkewei": "报告 7.8（深圳崎点数据 2018 年；母体中科为 2009 年）",
+    "yousairderp": "对比模板_优赛云.docx.md「广东优赛科技」（模板未载成立年份）",
+    "zhenghe": {
+     "text": "2008 始创 / 2014 股份",
+     "basis": "7.20 政和科技股份有限公司，2008 始创 / 2014 股份，济南",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "gaojingyanguanjia": "报告 7.16（创新易云为运酬旗下，本轮新增）",
+    "huayang": "报告 7.19（华扬 + 资鲸，资本圈层派，档案未载成立年）",
+    "zhiyanshuitong": "报告 7.17（深圳市智研税通网络科技，2025-08-07 成立，仅约一年）",
+    "xinyanbao": "报告 7.17（上海立信序伦信息科技 2020-12-24；软著登记 2025-05-23）",
+    "eipd": "http://eipd.com.cn/AboutUs.asp（官网未披露成立年份）",
+    "aceteamwork": "https://aceteamwork.com/products/aceauto（官网未披露成立年份）",
+    "8manage": "报告附录一第 21 行（高亚科技（广州）有限公司 WisageTech，2004，广州天河）",
+    "yanwuyou": "报告附录一第 94 行（成都全税合规科技有限公司，2024，成都）",
+    "meikekeji": "报告附录一第 31 行（杭州每刻科技有限公司，2015，杭州）",
+    "qichengzhiyuan": {
+     "text": "集团 2004 / 公司 2015",
+     "basis": "7.9 所属公司：启程智远集团（集团 2004 年，公司 2015 年，深圳南山）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "yanfamao": {
+     "text": "2023 年起",
+     "basis": "7.4 所属公司：拓银数科（新拓银），2023 年，深圳",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "xiaoyantong": {
+     "text": "母体 2018-09-13 成立，参保 32 人（2024 年），9 地分支；资本市场咨询起家，研发系统为配套产品",
+     "basis": "母体上海念桐企业咨询有限公司工商信息（百度百科词条，C 级仅作规模/主体佐证）：为上市公司、拟上市公司、国有企业、投融资机构和政府部门提供资本市场设计、规范辅导、交易支持、并购重组、投融资顾问及数字化转型咨询；参保 32 人（2024）；分支 9 地",
+     "source_level": "A",
+     "collected": "2026-09-23",
+     "revised_by": "M17 联网素材重判"
+    }
+   },
+   "IPO 案例密度（公开可证）": {
+    "own": "200+",
+    "yongyou": "报告 8.1（待核）",
+    "jindie": "报告 8.1（待核）",
+    "zhishikai": "待核",
+    "hande": "报告 8.1（8,000+ 中大型客户，非专指 IPO）",
+    "taikesi": "待核（有莫森泰克过会关联）",
+    "xinlianyun": {
+     "text": "非 IPO 客群（政企/央企）",
+     "basis": "7.2 客户分区：政府/园区、央企总部、企业侧；中标南方电网研发投入统计复核",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "jinchengzhiyan": "◐（297 份问询函分析 + 央企中标）",
+    "noming": "待核",
+    "weila": "待核",
+    "fangxinjiuou": "报告 8.1（待核）",
+    "hesi": "待核",
+    "yanbangzhu": "报告 8.1（自述，不可采信）",
+    "qidianzhongkewei": "报告 7.8（缺少 200+ IPO 案例；母体为首批国家高企认定代理机构）",
+    "yousairderp": "对比模板_优赛云.docx.md 目标用户：中小研发企业、需基础研发数字化的企业",
+    "zhenghe": {
+     "text": "非 IPO 客群（政府/园区）",
+     "basis": "7.20 面向山东省 16 地市开展研发管理培训 + 入企诊断；events.json 另有三条中标记录",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "gaojingyanguanjia": "报告 7.16（档案未披露 IPO 案例）",
+    "huayang": "报告 7.19（资本圈层/决策层流量池派）",
+    "zhiyanshuitong": "报告 7.17（产品仍在早期包装期，品牌资产薄弱）",
+    "xinyanbao": "报告 7.17（立信系 770 家上市公司客户量级，非专指 IPO 研发费）",
+    "eipd": "http://eipd.com.cn/AboutUs.asp（官网无 IPO 案例披露）",
+    "aceteamwork": "https://aceteamwork.com/products/aceauto（官网无 IPO 案例披露）",
+    "8manage": "报告第一章 260 行（2005 年前老牌资产，有存量客户与渠道，缺合规新叙事）",
+    "yanwuyou": "报告第一章 263 行（2020 后新锐冲击；成都咨询截流派策源地）",
+    "meikekeji": "报告第四章 430 行（档案局试点）",
+    "qichengzhiyuan": {
+     "text": "公开中标 1 项（非 IPO）",
+     "basis": "7.9 2026-08-25 中标广州白云山制药总厂国债申报咨询（补贴类，非 IPO）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "yanfamao": {
+     "text": "未见公开 IPO 案例",
+     "basis": "7.4 客户画像为专精特新培育企业、规上工业中小企业，未涉 IPO",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "xiaoyantong": {
+     "text": "未披露（报告称与我方 200+ 有差距）",
+     "basis": "7.6 其劣势原文：案例密度与我方 200+ 有差距",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    }
+   },
+   "M14_A1_联网补充": {
+    "日期": "2026-09-23",
+    "新增竞品": [
+     "aceteamwork",
+     "eipd"
+    ],
+    "格数": 28,
+    "说明": "仅填官网原文能支撑的维度；na=非其范畴（产品定位明确不含），unknown=官网未披露。"
+   },
+   "M14_A轮返工": {
+    "日期": "2026-09-23",
+    "新增竞品": [
+     "fangxinjiuou",
+     "gaojingyanguanjia",
+     "hande",
+     "huayang",
+     "jindie",
+     "qidianzhongkewei",
+     "yanbangzhu",
+     "yongyou",
+     "yousairderp",
+     "zhenghe"
+    ],
+    "写入三态格": 120,
+    "说明": "素材=报告第七章档案 + 优赛对比模板 + events.json；只填原文明确写到的维度，其余 unknown 挂依据。"
+   },
+   "M14_A轮返工_二批": {
+    "日期": "2026-09-23",
+    "新增竞品": [
+     "aceteamwork",
+     "eipd",
+     "xinyanbao",
+     "zhiyanshuitong"
+    ],
+    "写入三态格": 48,
+    "说明": "素材=报告 7.17 档案 + 上轮联网官网原文；只填原文明确写到的维度。"
+   },
+   "M14_A轮返工_三批": {
+    "日期": "2026-09-23",
+    "新增竞品": [
+     "8manage",
+     "meikekeji",
+     "yanwuyou"
+    ],
+    "写入三态格": 36,
+    "说明": "素材=报告附录一档案表 + 第三/四章定性描述；只填原文明确写到的维度。"
+   }
+  },
+  "players": [
+   "chanyanchuangfuyanfabao",
+   "fangxinjiuou",
+   "gaojingyanguanjia",
+   "hande",
+   "hesi",
+   "huayang",
+   "jinchengzhiyan",
+   "jindie",
+   "jinyouzi",
+   "noming",
+   "own",
+   "qichengzhiyuan",
+   "qizhidao",
+   "taikesi",
+   "weila",
+   "xiaoyantong",
+   "xinlianyun",
+   "yanbangzhu",
+   "yanfamao",
+   "yongyou",
+   "yuanfangshuju",
+   "zhenghe",
+   "zhishikai",
+   "zhongxiruan",
+   "qidianzhongkewei",
+   "yousairderp",
+   "zhiyanshuitong",
+   "xinyanbao",
+   "eipd",
+   "aceteamwork",
+   "8manage",
+   "yanwuyou",
+   "meikekeji"
+  ],
+  "cell_basis": {
+   "yanfamao": {
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.4「AI 四账合一」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "xiaoyantong": {
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.6「IPO 研发合规」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.6「全链条留痕」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.6「人员行为一致性」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "qichengzhiyuan": {
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.9「AI-2.0 上线日期至今查不到」→ 不做能力推断",
+     "source_level": "C",
+     "collected": "2026-09-18"
+    }
+   },
+   "gaojingyanguanjia": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.16（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.16（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.16（研值管家研发管理系统 + 创新易云 SaaS 含研发经费管理，未称多口径报表）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.16（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.16（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.16（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.16（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.16（创新易云含研发项目管理 + 研发经费管理 + 政府项目申报一体化）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.16（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.16（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.16（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.16（其自身即科技服务体系/政府项目申报服务方）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.16（创新易云为运酬旗下，本轮新增）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 7.16（档案未披露 IPO 案例）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "yuanfangshuju": {
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.18 三档版本含「上市拟 IPO 及集团」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "huayang": {
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.19（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.19（华扬 + 资鲸，资本圈层派，档案未载成立年）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 7.19（资本圈层/决策层流量池派）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "qizhidao": {
+    "_note": "报告 7.20 生态与资本型对手，无产品功能逐项记录"
+   },
+   "zhongxiruan": {
+    "_note": "报告 7.20 生态与资本型对手，无产品功能逐项记录"
+   },
+   "zhenghe": {
+    "_note": "报告 7.20 生态与资本型对手，无产品功能逐项记录",
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.20（定位为高企认定+政策申报服务，非研发费过程管理系统）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.20（同上，非其产品范畴）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.20「高企认定+政策申报」（有申报口径服务，未称多口径报表自动生成）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.20（非其产品范畴）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.20（非其产品范畴）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.20「免申即享」平台（有材料申报服务，非系统化备查归档）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.20 原文：不做合规责任交付",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.20（非其产品范畴）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.20（非其产品范畴）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.20（非其产品范畴）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.20（非其产品范畴）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.20 原文：不做合规责任交付（其自身即申报服务方）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.20（政和科技股份有限公司 2008 始创 / 2014 股份，济南）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 7.20（中标中铝山东研发活动和研发费用风险管控服务；8-9 月三单）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "jinyouzi": {
+    "_note": "报告 7.20 生态与资本型对手，无产品功能逐项记录"
+   },
+   "chanyanchuangfuyanfabao": {
+    "_note": "报告 7.20 生态与资本型对手，无产品功能逐项记录"
+   },
+   "qidianzhongkewei": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.8「全流程留痕」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.8（档案未提及全时/非全时认定）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.8「审计+税务双重视角」+「自动台账」（口径并存但未称多口径报表自动生成）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.8 劣势：缺少 200+ IPO 案例，档案未提 IPO 口径报表",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.8（档案未提辅助账/A107012）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.8「全周期数字化存证平台」+「大模型自动生成立项报告/计划书」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.8「全流程留痕」（有留痕，未称问询可引用导出）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.8（档案未提穿透归集）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.8（档案未提物料冲减）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.8（档案未提银税直连）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.8 劣势原文：缺少跨 ERP 中立性",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.8 原文：出题人与答题人是同一家 —— 不签独立性承诺书",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.8（深圳崎点数据 2018 年；母体中科为 2009 年）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 7.8（缺少 200+ IPO 案例；母体为首批国家高企认定代理机构）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "yousairderp": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "对比模板_优赛云.docx.md「人工费用分摊：按研发工时/比例分摊，支持工时导入」（有工时归集，未称过程留痕不可篡改）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "对比模板_优赛云.docx.md（优赛云侧无全时/非全时区分相关表述，为我方差异点）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "对比模板_优赛云.docx.md「合规覆盖范围：支持加计扣除、高企认定基础合规，无 IPO 专项支持」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "对比模板_优赛云.docx.md 原文：无 IPO 专项支持",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "对比模板_优赛云.docx.md「报表类型：加计扣除汇总表」（有汇总表，未称辅助账/A107012 自动生成）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "对比模板_优赛云.docx.md「研发过程材料管理：提供阶段化模板（立项报告/过程文档）、支持批量提交审核」（有模板，未称备查资料一键下载）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "对比模板_优赛云.docx.md 原文：支持过程材料上传，但无自动关联凭证",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "对比模板_优赛云.docx.md「费用归集维度：按项目/月份归集」（单维，非多维穿透）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "对比模板_优赛云.docx.md 原文：支持物料领用/导入、分项目关联，无明确废料管理",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "对比模板_优赛云.docx.md（通篇未提银税直连）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "对比模板_优赛云.docx.md 原文：未明确提及与 ERP/SAP 集成",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "对比模板_优赛云.docx.md（未提申报代理绑定/独立性）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "对比模板_优赛云.docx.md「广东优赛科技」（模板未载成立年份）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "对比模板_优赛云.docx.md 目标用户：中小研发企业、需基础研发数字化的企业",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "yongyou": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.10（档案未提工时留痕）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.10（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.10（用友为 ERP 厂商，财务口径为其主场；档案未称研发多口径报表）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.10（档案未提 IPO 口径）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.10（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.10（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.10（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.10（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.10（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.10（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.10（用友自身即 ERP 厂商，多体系并存非其立场）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.10（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.10 / 8.1（1988 年起）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 8.1（待核）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "jindie": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.11（档案未提工时留痕）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.11（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.11（金蝶核心服务商页面为归集知识科普，非产品能力声明；按 ERP 财务主场记 partial）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.11（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.11（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.11（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.11（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.11（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.11（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.11（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.11（金蝶自身即 ERP 厂商）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.11（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.11 / 8.1（1993 年起）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 8.1（待核）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "hande": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.12（汉得为实施服务商，多 ERP 并存是其常态场景）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.12（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.12 / 8.1（2002 年起）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 8.1（8,000+ 中大型客户，非专指 IPO）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "fangxinjiuou": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.14（报价最透明的一家；档案未单列工时留痕）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.14（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.14（财税背景厂商，口径为其主场；未称研发多口径报表）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.14（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.14（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.14（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.14（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.14（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.14（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.14（财税厂商背景，档案未明示直连能力）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.14（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.14（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.14 / 8.1（1998 年起）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 8.1（待核）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "yanbangzhu": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.15（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.15 / 8.1（2013 年起）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 8.1（自述，不可采信）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "zhiyanshuitong": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.17「研发工时可视化分摊」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.17「研发工时可视化分摊」（有分摊，未称全时/非全时认定与占比预警）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.17「一键多口径报表」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.17「主打 IPO / 高企 / 加计扣除」（称主打，未称 IPO 口径报表）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.17（档案未提辅助账/A107012）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.17「金税四期 AI 风险扫描」（有风险扫描，未称问询可引用导出）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.17「金税四期 AI 风险扫描」（有金税四期相关能力，未称直连）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.17（面向会计师事务所/税务师事务所/咨询机构白标合作，其客户即申报鉴证方）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.17（深圳市智研税通网络科技，2025-08-07 成立，仅约一年）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 7.17（产品仍在早期包装期，品牌资产薄弱）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "xinyanbao": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告 7.17（档案未提工时留痕）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告 7.17「研发费加计扣除智能化产品」（主打加计扣除单口径，未称多口径）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告 7.17（档案未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告 7.17（与立信税务师事务所共有软著，著作权人为立信税务师事务所 + 上海立信序伦）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告 7.17（上海立信序伦信息科技 2020-12-24；软著登记 2025-05-23）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告 7.17（立信系 770 家上市公司客户量级，非专指 IPO 研发费）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "eipd": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网定位为 IPD 研发项目管理平台，无该能力表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无该能力表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无研发费用归集/加计扣除口径相关能力）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无 IPO 口径相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无税务辅助账/A107012 相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无备查文档生成归档相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无税务证据链导出相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无研发费用穿透归集相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无物料冲减相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "银税直连": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无银税直连相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网「B/S 架构 / 自主知识产权 NutScript 脚本引擎」，自研引擎不绑单一 ERP）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无独立性/申报代理绑定相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "从业年限 / 积淀": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网未披露成立年份）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "http://eipd.com.cn/AboutUs.asp（官网无 IPO 案例披露）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "aceteamwork": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "https://aceteamwork.com/products/aceauto（产品页为项目/成本核算，无工时过程留痕能力表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无全时/非全时认定与占比预警表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无会计/高企/加计扣除多口径表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无 IPO 口径相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无税务辅助账/A107012 相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无备查文档生成归档相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无税务证据链导出相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无研发费用穿透归集相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无物料冲减相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "银税直连": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无银税直连相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无 ERP 体系兼容性表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无独立性/申报代理绑定相关表述）",
+     "source_level": "B",
+     "collected": "2026-09-23"
+    },
+    "从业年限 / 积淀": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网未披露成立年份）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "https://aceteamwork.com/products/aceauto（官网无 IPO 案例披露）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "8manage": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告附录一第 21 行「一体化项目管理 + 工时管理（PPM/工时/成本）」；第四章 389 行「工时与 WBS/成本中心/财务实时联动」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告附录一第 21 行（未提全时/非全时认定）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告附录一第 21 行（定位为 PPM/工时/成本，未提研发多口径）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告附录一第 21 行（未提 IPO 口径）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告附录一第 21 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告附录一第 21 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告附录一第 21 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告第四章 389 行「工时与 WBS/成本中心/财务实时联动」（多维度联动，非研发费穿透归集）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告附录一第 21 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告附录一第 21 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告第四章 389 行「工时与 WBS/成本中心/财务实时联动」（项目/财务多系统联动）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告附录一第 21 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告附录一第 21 行（高亚科技（广州）有限公司 WisageTech，2004，广州天河）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告第一章 260 行（2005 年前老牌资产，有存量客户与渠道，缺合规新叙事）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "yanwuyou": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告附录一第 94 行「六大模块（工时、物资溯源、证据链、多口径报表、驾驶舱、风险预警）」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告附录一第 94 行（未提全时/非全时认定）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告附录一第 94 行「多口径报表」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告附录一第 94 行（未提 IPO 口径）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告附录一第 94 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告附录一第 94 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告附录一第 94 行「证据链」",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告附录一第 94 行（未提穿透归集）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告附录一第 94 行「物资溯源」（有溯源，未称废料/样品冲减）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告附录一第 94 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告附录一第 94 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告附录一第 94 行「财税专家驻点陪跑」+ 主体为成都全税合规科技（财税服务方）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告附录一第 94 行（成都全税合规科技有限公司，2024，成都）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告第一章 263 行（2020 后新锐冲击；成都咨询截流派策源地）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   },
+   "meikekeji": {
+    "研发工时 过程留痕不可篡改": {
+     "basis": "报告附录一第 31 行（定位为 AI 费控 + 云财务，未提研发工时留痕）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "研发人员全时 / 非全时认定与 50% 占比预警": {
+     "basis": "报告附录一第 31 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "多口径 （会计 / 高企 / 加计扣除）": {
+     "basis": "报告附录一第 31 行「业财税档原生一体化」（有业财档一体，未称研发多口径）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 口径 / 发行类第 9 号": {
+     "basis": "报告附录一第 31 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "辅助账 / A107012 自动生成": {
+     "basis": "报告附录一第 31 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "备查文档批量生成与归档": {
+     "basis": "报告第四章 430 行「档案合规 + 费用归集原生一体（档案局试点）」——对应备查文档留存能力",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "证据链一键导出（问询可引用）": {
+     "basis": "报告附录一第 31 行（未称问询可引用）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "五维 / 多维穿透归集": {
+     "basis": "报告附录一第 31 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "物料/样品/边角料冲减": {
+     "basis": "报告附录一第 31 行（费控定位，未提研发物料冲减）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "银税直连": {
+     "basis": "报告附录一第 31 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "跨 ERP 中立（多体系并存）": {
+     "basis": "报告第四章 432 行（汇联易 ERP 对接能力强；每刻同属费控派，业财税档一体）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "不绑申报代理（独立性可签承诺）": {
+     "basis": "报告附录一第 31 行（未提）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "从业年限 / 积淀": {
+     "basis": "报告附录一第 31 行（杭州每刻科技有限公司，2015，杭州）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    },
+    "IPO 案例密度（公开可证）": {
+     "basis": "报告第四章 430 行（档案局试点）",
+     "source_level": "B",
+     "collected": "2026-09-18"
+    }
+   }
+  }
+ },
+ "price_matrix": {
+  "rows": [
+   {
+    "competitor_id": "own",
+    "product": "公有云软件订阅（含账号）",
+    "deal_type": "标价（年度订阅）",
+    "first_year": 29800,
+    "renew": 29800,
+    "ipo_version": null,
+    "unit": "元/年/主账套（子账套 6,900 元/年）",
+    "date": "2026-09-24",
+    "tier_condition": "以年度研发费 1,000 万为基数；超 1,000 万后每增 1,000 万（不足按 1,000 万算）加 10,000 元",
+    "note": "主账套年费；初始化实施另计 29,800 元/账套（同样按 1,000 万基数分档）；风险管控服务 39,800 元/账套/年；跨城市现场实施差旅费另计",
+    "source": "内部原件·微盘（价格体系 V5.0 定稿版 xlsx，2026-09-24 解析）",
+    "amount_note": "含软件账号，与纯数字化数据服务不是同一产品；项目制按账套，非纯 SaaS 订阅，不许换算单价与竞品比"
+   },
+   {
+    "competitor_id": "own",
+    "product": "私有化部署（本地化买断）",
+    "deal_type": "标价（一次性买断 + 年维护）",
+    "first_year": 188000,
+    "renew": 19800,
+    "ipo_version": null,
+    "unit": "元/套（维护 19,800 元/年，第二年起）",
+    "date": "2026-09-24",
+    "tier_condition": "以年度研发费 1,000 万为基数；超 1,000 万后每增 1,000 万（不足按 1,000 万算）加 10,000 元；实施费 49,800 元/账套同基数分档",
+    "note": "软件费一次性买断；年度升级维护第二年起收；远程安装部署不提供驻场",
+    "source": "内部原件·微盘（价格体系 V5.0 定稿版 xlsx，2026-09-24 解析）",
+    "amount_note": "按套买断，与订阅制不是同一产品，不可比价；项目制按套，不许换算单价与竞品比"
+   },
+   {
+    "competitor_id": "own",
+    "product": "研发费数字化服务（不含软件账号）980 元/月起（1,000 万以内）；1,000–2,000 万 1,980 元/月",
+    "deal_type": "标价（按月订阅·纯数据服务）",
+    "first_year": 11760,
+    "renew": 11760,
+    "ipo_version": null,
+    "unit": "元/年（980 元/月，1,000 万研发费以内档）",
+    "date": "2026-09-24",
+    "tier_condition": "1,000 万以内 980 元/月（11,760 元/年）；1,000–2,000 万 1,980 元/月（23,760 元/年）；一年起签",
+    "note": "只交付每月数据（辅助账、报表、凭证），**不交付软件系统（无账号）**——这是与公有云订阅的根本差别",
+    "source": "内部原件·微盘（价格体系 V5.0 定稿版 xlsx，2026-09-24 解析）",
+    "amount_note": "不含软件账号，与公有云订阅不是同一产品，不可比价；纯服务订阅不交付账号，不许换算单价与竞品 SaaS 比"
+   },
+   {
+    "competitor_id": "fangxinjiuou",
+    "product": "研管家专业版",
+    "first_year": 29800,
+    "renew": 9800,
+    "ipo_version": 59800,
+    "date": "2026-09-16",
+    "note": "官网明码标价",
+    "source": "报告 8.3 / 官网"
+   },
+   {
+    "competitor_id": "yunkeshuitong",
+    "product": "SaaS 成长版（专家+平台多口径）",
+    "first_year": 7960,
+    "renew": null,
+    "ipo_version": null,
+    "date": "2026-09-18",
+    "note": "「专家 + 平台」多口径",
+    "source": "报告 8.3"
+   },
+   {
+    "competitor_id": "yanxiaojiang",
+    "product": "OpenRDai 订阅制+按次",
+    "first_year": 26800,
+    "renew": null,
+    "ipo_version": null,
+    "date": "2026-09-18",
+    "note": "99 元/次 ~ 26,800 元/年",
+    "source": "报告 8.3"
+   },
+   {
+    "competitor_id": "qidianzhongkewei",
+    "product": "企殿系统（随申报服务赠送）",
+    "first_year": 0,
+    "renew": null,
+    "ipo_version": null,
+    "date": "2026-09-18",
+    "note": "免费送系统，靠申报服务盈利",
+    "source": "报告 8.3"
+   },
+   {
+    "competitor_id": "yongyou",
+    "product": "ERP 模块叠加 + 订阅",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "date": "2026-09-18",
+    "note": "模块价（随 ERP 合同），无公开单价",
+    "source": "报告 8.3"
+   },
+   {
+    "competitor_id": "jindie",
+    "product": "ERP 模块叠加 + 订阅",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "date": "2026-09-18",
+    "note": "模块价（随 ERP 合同），无公开单价",
+    "source": "报告 8.3"
+   },
+   {
+    "competitor_id": "zhishikai",
+    "product": "绑定用友体系",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "date": "2026-09-18",
+    "note": "未获取公开报价",
+    "source": "报告 8.3"
+   },
+   {
+    "competitor_id": "puhuayongdaopwc",
+    "product": "服务费 + 按节税额 15% 分成",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "date": "2026-09-18",
+    "note": "公开中标可见，未披露单价",
+    "source": "报告 8.3"
+   },
+   {
+    "competitor_id": "xinyongzhonghe",
+    "product": "按年按项目计价",
+    "first_year": 108000,
+    "renew": null,
+    "ipo_version": null,
+    "date": "2026-09-18",
+    "note": "东风汽车加计扣除鉴证竞价 10.8 万（信永中和）/ 10.94 万（致同），安永 24 万",
+    "source": "报告 8.3"
+   },
+   {
+    "competitor_id": "tengke",
+    "product": "项目制",
+    "first_year": 410000,
+    "renew": null,
+    "ipo_version": null,
+    "date": "2026-09-18",
+    "note": "深圳机场项目含税报价 41 万元（成交候选第 2 名）",
+    "source": "报告 8.3"
+   },
+   {
+    "competitor_id": "jindie",
+    "product": "重庆长安汽车集团财务数智化项目",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "deal_type": "成交价",
+    "amount": 27283400,
+    "amount_note": "不含税 2728.34 万 / 含税 3050 万；同台击败浪潮（2257.8 万）",
+    "basis": "events.json：金蝶中标重庆长安汽车集团财务数智化项目（B 级）",
+    "source_level": "B",
+    "date": "2026 上半年"
+   },
+   {
+    "competitor_id": "tengke",
+    "product": "深圳机场「研发项目及科技创新管理咨询项目」",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "deal_type": "成交价",
+    "amount": 410000,
+    "amount_note": "含税报价 41 万元，成交候选第 2 名（第 1 名广州凡义 41.65 万）",
+    "basis": "events.json：腾科深圳机场项目成交候选第 2 名（A 级）",
+    "source_level": "A",
+    "date": "2026"
+   },
+   {
+    "competitor_id": "zhenghe",
+    "product": "中铝山东「研发活动和研发费用风险管控服务」",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "deal_type": "成交价",
+    "amount": null,
+    "amount_note": "events.json 未载金额 → 金额留空，不估算",
+    "basis": "events.json：政和中标中铝山东研发活动和研发费用风险管控服务（A 级）",
+    "source_level": "A",
+    "date": "2026"
+   },
+   {
+    "competitor_id": "zhenghe",
+    "product": "西藏经信厅项目",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "deal_type": "成交价",
+    "amount": 682000,
+    "amount_note": "68.2 万；属 8—9 月新增三单之一",
+    "basis": "events.json：政和升 P0 建议第 4 期 8—9 月三单（西藏经信厅 68.2 万 / 山东能源装备液压 / 济南发改委 44.8 万）（A 级）",
+    "source_level": "A",
+    "date": "2026-08 至 2026-09"
+   },
+   {
+    "competitor_id": "zhenghe",
+    "product": "济南发改委项目",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "deal_type": "成交价",
+    "amount": 448000,
+    "amount_note": "44.8 万；属 8—9 月新增三单之一",
+    "basis": "events.json：政和升 P0 建议第 4 期 8—9 月三单（A 级）",
+    "source_level": "A",
+    "date": "2026-08 至 2026-09"
+   },
+   {
+    "competitor_id": "jinchengzhiyan",
+    "product": "中化学华陆新材料「研发管理系统开发」",
+    "first_year": null,
+    "renew": null,
+    "ipo_version": null,
+    "deal_type": "成交价",
+    "amount": null,
+    "amount_note": "events.json 未载金额 → 金额留空，不估算",
+    "basis": "events.json：金诚智研中标中化学华陆新材料研发管理系统开发，项目编号 20502539HXCGFA260715004（A 级）",
+    "source_level": "A",
+    "date": "2026-07-15"
+   },
+   {
+    "competitor_id": "qichengzhiyuan",
+    "competitor_name": "启程智远",
+    "product": "力企·研发费用管理系统",
+    "deal_type": "标价（按账套）",
+    "amount": 26800,
+    "amount_note": "账套初始化 26,800 元（1000 万以下/账套，每增 1000 万 +10,000 元）；数字化账套服务 22,000 元/年（1000 万以下/账套）。项目制按账套报价，非纯 SaaS 订阅；不许换算成单价与我方标价比大小。",
+    "basis": "《力企·研发费管理系统价格方案[2026V1.0版]》（厂商 PDF 原件，官网不公开，第三方平台转载）｜https://cdn.gzsonline.com/attachment/pdf/%E5%8A%9B%E4%BC%81%C2%B7%E7%A0%94%E5%8F%91%E8%B4%B9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E4%BB%B7%E6%A0%BC%E6%96%B9%E6%A1%88%5B2026V1.0%E7%89%88%5D.pdf｜抓取 2026-09-23",
+    "source_level": "B",
+    "collected": "2026-09-23",
+    "revised_by": "M18 用户授权入库",
+    "amount_yearly": 22000
+   }
+  ],
+  "source": "报告 8.3 商务模型与报价 + 官网价格页（2026-09-16/18 采集）",
+  "note": "我方三行（own）来自价格体系 V5.0 定稿版，每行都带 tier_condition 档位条件。三种交付形态（公有云含账号订阅 / 私有化买断 / 纯数字化数据服务）互不可比价；竞品行为公开标价或中标价，deal_type 不同的行之间不许换算单价互比。"
+ },
+ "playbook": [
+  {
+   "id": "pb-01",
+   "competitor_id": "qidianzhongkewei",
+   "form": "形态1 企服打包派",
+   "scenario": "\" 中科为说他们直接送系统，还跟财大共建了实验室 \"",
+   "response": "\" 学术合作是加分项。但请分清一件事： 这份台账将来要给保荐机构和年审会计师看，如果出题人和答题人是同一家，会计师会怎么想？ 我们不做申报代理，所以我们的底稿可以交给任何一家事务所。 \"",
+   "action": "现场演示工时数据时间戳与不可篡改日志，并出具《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认）",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "objection": []
+  },
+  {
+   "id": "pb-02",
+   "competitor_id": "xinlianyun",
+   "form": "形态8 政府背书派",
+   "scenario": "\" 新链云是政府那边办培训的，还做技术鉴定支撑 \"",
+   "response": "\" 政府和标准参与确实是加分项，但要分清： 推荐名单和标准解决的是'怎么做规范'，不解决'出了事谁举证'。 更关键的是 身份冲突 —— 一家机构既参与技术鉴定口径、又卖配套系统，它既是出题人又是答题人。 \"",
+   "action": "出具《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） + 抢同城培训席位",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "objection": []
+  },
+  {
+   "id": "pb-03",
+   "competitor_id": "taikesi",
+   "form": "形态2 咨询先行派",
+   "scenario": "\" 泰克思那边有税务师事务所，案例还过会了 \"",
+   "response": "\" 他们的判断力我们认，这块确实是人的主场。但 监管处罚的案例恰恰不是判断错了，是数据拿不出来 —— 易加增材的保代被警示，是研发工时台账 事后集中补编 ；华铭智能的年报会计师被罚没 445 万，是一笔费用 记错了科目 。正确的组合是： 顾问做判断，系统保数据。 \"",
+   "action": "递交《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） ；反向接触明欣类项目经理谈 \" 顾问用系统 \"",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "objection": []
+  },
+  {
+   "id": "pb-04",
+   "competitor_id": "yanbangzhu",
+   "form": "形态2 咨询先行派",
+   "scenario": "\" 咨询公司直接驻场陪跑，交给他们我更放心 \"",
+   "response": "\" 驻场确实是他们的主场。但请想一个问题： 三年后如果换服务商，或者交易所要求提供原始工时和费用凭证，您手上有没有一套不依赖任何中介的完整数据链？ 另外，研帮主做申报又决定用什么工具， 这个角色需要您自己判断是否合适。 \"",
+   "action": "递交《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） ；主推 \" 系统不绑服务费 \"",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "objection": []
+  },
+  {
+   "id": "pb-05",
+   "competitor_id": "yongyou",
+   "form": "形态10 大厂S级正面对撞派",
+   "scenario": "\" 我们用友 / 金蝶里已经有研发费用管理了 \"",
+   "response": "\" 您说得对， U9 cloud 和星空现在确实覆盖了核算和申报这一段，这块它们做得不错。但 它们的方案是跟自己的 ERP 深度绑定的 —— 如果贵司是多套 ERP 并存，就覆盖不全。更关键是这三件事它没答案： ① 非全时研发人员的工时占比怎么取数、怎么留痕 ？ ② 工时是 过程留痕还是事后补录 ？ ③ 万一被问询， 谁陪你答 ？ \"",
+   "action": "现场用《问询责任对照表》逐行勾选责任划分（弹药卡 ammo-appendix-a，草稿待业务确认）；主推跨 ERP 中立",
+   "forbidden": [
+    "大厂做不了这个",
+    "大厂的功能很浅"
+   ],
+   "forbidden_basis": "报告 5.4「⚠️ 绝对不能说的话：『大厂做不了这个』『大厂的功能很浅』」原文照录",
+   "objection": [
+    {
+     "id": "obj-32",
+     "dept": "IT",
+     "dept_focus": "部署与对接：公有云还是私有化、能不能接现有系统",
+     "phase": "售前",
+     "objection": "企业提问SAP系统接口由谁负责打通，以及实施周期。",
+     "answer": "系统接口由独角鲸这边负责打通，SAP系统提供接口访问权限。在独角鲸系统上线后，有一个月企业费用数据作为验证后，接口可在一到两周完成打通实施。",
+     "verified": true,
+     "sys_ok": "是",
+     "basis": "内部原件·微盘（客户问题管理.xlsx，售前售后问题整理，2026-09-24 直读原件）"
+    }
+   ]
+  },
+  {
+   "id": "pb-06",
+   "competitor_id": "hande",
+   "form": "形态6 集成型派",
+   "scenario": "\" 汉得说他们什么系统都能对接 \"",
+   "response": "\" 能对接是入场券，不是差异点 —— 我们同样支持数据回写。差别在 口径 。您可以当面问他们一个问题： 《发行类第 9 号指引》里，非全时研发人员的工时占比，你们怎么取数、怎么留痕？ \"",
+   "action": "《问询责任对照表》（弹药卡 ammo-appendix-a，草稿待业务确认） ；对多 ERP 集团客户切入",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "objection": []
+  },
+  {
+   "id": "pb-07",
+   "competitor_id": "zhishikai",
+   "form": "形态7 协同/设计工具派",
+   "scenario": "\"PLM 里已经有研发项目和工时了 \"",
+   "response": "\" 研发过程数据 ≠ 可审计的合规证据。就看三个 ' 能不能 ' ： ① 工时能不能证明 不可事后篡改 ； ② 能不能同时出 会计/高企/加计扣除三套口径 ； ③ 能不能生成 备查文档和问询回复可以直接引用的底稿 。对方说差异率 ≤1%—— 这个差异率是在谁的账上算的、出事谁举证？ \"",
+   "action": "不做替代叙事；谈数据上游合作",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "objection": []
+  },
+  {
+   "id": "pb-08",
+   "competitor_id": "fangxinjiuou",
+   "form": "形态4 低价垂直派",
+   "scenario": "\" 深圳有家报价只有你们一半 \"",
+   "response": "\" 价格差在哪，我们一起看三个问题： ① 它的工时数据是怎么采集的 ？事后录入还是过程留痕？ ② 出了问询谁陪您去回 ？ ③ 它做过几家拟 IPO ？我们是 200+ 家。如果这三个问题它都答得上，您可以再考虑价格；如果答不上，您省下的钱会在问询阶段还回去。 \"",
+   "action": "不降价；出示《问询责任对照表》逐条过责任划分（弹药卡 ammo-appendix-a，草稿待业务确认）",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "objection": [
+    {
+     "id": "obj-32",
+     "dept": "IT",
+     "dept_focus": "部署与对接：公有云还是私有化、能不能接现有系统",
+     "phase": "售前",
+     "objection": "企业提问SAP系统接口由谁负责打通，以及实施周期。",
+     "answer": "系统接口由独角鲸这边负责打通，SAP系统提供接口访问权限。在独角鲸系统上线后，有一个月企业费用数据作为验证后，接口可在一到两周完成打通实施。",
+     "verified": true,
+     "sys_ok": "是",
+     "basis": "内部原件·微盘（客户问题管理.xlsx，售前售后问题整理，2026-09-24 直读原件）"
+    }
+   ]
+  },
+  {
+   "id": "pb-09",
+   "competitor_id": "xinyanbao",
+   "form": "形态9 渠道工具派",
+   "scenario": "\" 我们的事务所自己有系统，用它就行 \"",
+   "response": "\" 事务所的系统服务的是 它自己出报告的效率 ；我们的系统服务的 是您自己的数据资产 。差别在三年后：如果换事务所，或者被要求提供 原始工时和费用凭证 ，您手上有没有一套不依赖任何中介的完整数据链？ \"",
+   "action": "递交《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） ，并反问对方 \" 能否也签一份 \"",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "objection": []
+  },
+  {
+   "id": "pb-10",
+   "competitor_id": "huayang",
+   "form": "形态11 资本圈层派",
+   "scenario": "\" 董秘俱乐部推荐了一套系统 \"",
+   "response": "\" 推荐方是谁、系统好不好，这两件事要分开看。有一个问题建议您自己判断： 它既做您的 IPO 辅导、又卖您系统，这个角色合适吗？ 尤其当它同时还在服务您同行业的竞争对手时。 \"",
+   "action": "出具《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认）",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "objection": []
+  },
+  {
+   "id": "pb-11",
+   "competitor_id": "big4",
+   "form": "形态2 咨询先行派",
+   "scenario": "\" 我们请了四大，他们说人工就够了 \"",
+   "response": "\" 顾问做判断，系统保数据。 德勤自己都公开承认 项目管理手工工作量大、缺乏系统化支持，所以他们才自研 Insight Tax 。我们的底稿是顾问 可以直接拿去用 的。 \"",
+   "action": "定位为顾问的数据供应商，而非替代者",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-12",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\" 我们有 Excel/ 钉钉就够了 \"",
+   "response": "\"Excel 的问题不是记不记，是 改不改得了 。易加增材的保代就是因为工时台账事后补编被警示的。 \"",
+   "action": "监管处罚案例",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-13",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\"AI 现在什么都能做 \"",
+   "response": "\"AI 能帮你算得快，但 不能替你在问询函上签字 。审计师认的是数据源，不是算得快。 \"",
+   "action": "问询回复案例",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-14",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\" 免费送的系统为什么不用 \"",
+   "response": "\" 出题人和答题人是同一家，会计师会打问号。我们不接申报代理，所以底稿谁都能看。 \"",
+   "action": "《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认）",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-15",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\" 顾问说不用上系统 \"",
+   "response": "\" 顾问做判断，系统保数据。德勤自己都承认缺系统化支持。 \"",
+   "action": "德勤公开表述 + 沪〔 2026 〕 27 号",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-16",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\" 太贵了 \"",
+   "response": "\" 这不是软件采购，是 问询保险 。问一次询、改一次底稿的成本，通常高于整套系统。 \"",
+   "action": "ROI 测算表 + 力生制药 45.5 万锚点",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-17",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\" 你们和金蝶 / 用友什么关系 \"",
+   "response": "\" 互补。我们把 ERP 做不了的那段补上，数据还能回写回去。 \"",
+   "action": "集成方案",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-18",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\" 你们和泰克思 / 念桐有什么不同 \"",
+   "response": "\" 他们卖咨询带系统，我们 系统不绑服务费 。而且我们不做鉴证、不做代理，身份中立。 \"",
+   "action": "定位对照表",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-19",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\" 你们凭什么说比别人强 \"",
+   "response": "\" 不比功能，比三个数： 200+ 上市/拟 IPO、349 次迭代、五维穿透 。 \"",
+   "action": "案例清单",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-20",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\" 我们 OA/PLM 里已经有研发管理了 \"",
+   "response": "\" 研发过程数据 ≠ 可审计证据。就看三个能不能：不可篡改、三套口径、备查底稿。 \"",
+   "action": "形态 7 话术",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-21",
+   "competitor_id": "",
+   "form": "通用异议处理",
+   "scenario": "\" 能不能先免费试用 \"",
+   "response": "\" 可以。但请用真实数据跑 3 个月，只验一件事： 导出的操作日志能不能证明工时是过程留痕，而不是事后补录 。 \"",
+   "action": "POC 验收清单",
+   "forbidden": null,
+   "forbidden_basis": null
+  },
+  {
+   "id": "pb-form-01",
+   "competitor_id": "",
+   "form": "形态1 企服打包派",
+   "scenario": "形态速查：形态1 企服打包派｜代表：企殿（中科为）、反潜者（深纵横）、启程智远（力企）、慧算账、账王｜识别语：\" 我们免费送系统 \"",
+   "response": "既做裁判又做运动员 ；现场出示 \" 系统与申报服务解耦 \" 承诺  +  《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认）",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-02",
+   "competitor_id": "",
+   "form": "形态2 咨询先行派",
+   "scenario": "形态速查：形态2 咨询先行派｜代表：泰克思 + 明欣、小研通 / 念桐、研帮主、高景研管家、普华永道、德勤、安永｜识别语：\"XX  咨询公司说不用上系统 \"",
+   "response": "顾问做判断，系统保数据 ；处罚案例不是判断错了，是数据拿不出来",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-03",
+   "competitor_id": "",
+   "form": "形态3 大厂 / 底座顺手派",
+   "scenario": "形态速查：形态3 大厂 / 底座顺手派｜代表：金蝶、用友、浪潮海岳、鼎捷、合思、每刻、汇联易｜识别语：\" 我们用金蝶 / 用友了，不想多买一套 \"",
+   "response": "辅助账能出 ≠ 能过问询 ；问对方 \" 能否出具符合  9  号指引的工时台账 \"",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-04",
+   "competitor_id": "",
+   "form": "形态4 低价垂直派",
+   "scenario": "形态速查：形态4 低价垂直派｜代表：优服、方欣九鸥、理税宝、企税宝、中税汇金、账王、云科税通、研小匠｜识别语：\" 你们比  XX  贵 \"",
+   "response": "三问法 ：工时怎么采集  /  谁陪答问询  /  做过几家拟  IPO （我方  200+ ）",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-05",
+   "competitor_id": "",
+   "form": "形态5 研发管理工具冒充合规",
+   "scenario": "形态速查：形态5 研发管理工具冒充合规｜代表：PingCode 、禅道、 ONES 、维拉工时、 PLM  系、低代码｜识别语：\" 我们项目里有工时，够了 \"",
+   "response": "三个硬指标过不了：研发人员认定  /  多政策口径  /  备查归档",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-06",
+   "competitor_id": "",
+   "form": "形态6 集成型 / 财务数字化派",
+   "scenario": "形态速查：形态6 集成型 / 财务数字化派｜代表：汉得信息、元年科技、远光 / 久其 / 普联｜识别语：\" 汉得说什么系统都能对接 \"",
+   "response": "能对接是入场券，不是差异点 ；问 \"9  号指引里非全时研发人员工时占比怎么取数、怎么留痕 \"",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-07",
+   "competitor_id": "",
+   "form": "形态7 协同 / 设计工具派",
+   "scenario": "形态速查：形态7 协同 / 设计工具派｜代表：蓝凌、中望、三品  PLM 、索为、美云智数、智石开、华腾｜识别语：\" 我们  OA/PLM  里已经有研发管理了 \"",
+   "response": "研发过程数据 ≠ 可审计证据 ；三个 \" 能不能 \"",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-08",
+   "competitor_id": "",
+   "form": "形态8 政府背书 / 区域平台派",
+   "scenario": "形态速查：形态8 政府背书 / 区域平台派｜代表：新链云、金柚子、博士科技、科研云、产研创服｜识别语：\"XX  是政府推荐 / 参与制定标准的 \"",
+   "response": "推荐名单解决\"怎么做规范\"，不解决\"出了事谁举证\" ；切 \" 身份冲突  +  独立性 \"",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-09",
+   "competitor_id": "",
+   "form": "形态9 渠道工具派 /\" 服务商送软件 \"",
+   "scenario": "形态速查：形态9 渠道工具派 /\" 服务商送软件 \"｜代表：九鸥  AIC 、觅多多、玉钰、华扬、瑞友科技、汉得｜识别语：\" 代理机构说他们自己有系统 \"",
+   "response": "中介系统是 做单工具 ，我方系统是 企业资产 ；三年后数据在谁手上",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-10",
+   "competitor_id": "",
+   "form": "形态10 大厂  S  级正面对撞派",
+   "scenario": "形态速查：形态10 大厂  S  级正面对撞派｜代表：用友  U9 cloud 、金蝶云 · 星空、汉得｜识别语：\" 用友 / 金蝶里已经有研发费用管理了 \"",
+   "response": "先承认核算与申报能力，再切三问 ；主推 跨 ERP 中立 ； ❌  千万别说 \" 大厂做不了 \"",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-form-11",
+   "competitor_id": "",
+   "form": "形态11 资本圈层 / 决策层流量池派",
+   "scenario": "形态速查：形态11 资本圈层 / 决策层流量池派｜代表：华扬 + 资鲸、荣大科技｜识别语：\" 董秘俱乐部 /IPO  辅导那边推荐了一套系统 \"",
+   "response": "它既做辅导又卖系统，这个角色合适吗 ；用《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认）  形成正面对照",
+   "action": "按本页该竞品形态的话术逐条对练",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.1（2026-09-18）"
+  },
+  {
+   "id": "pb-zhishikai-\"PLM",
+   "competitor_id": "zhishikai",
+   "form": "（见 14.1 形态速查）",
+   "scenario": "面对智石开 / PLM 系：\"PLM  里已经有研发项目和工时了 \"",
+   "response": "\" 研发过程数据  ≠  可审计的合规证据。就看三个 ' 能不能 ' ： ①  工时能不能证明 不可事后篡改 ； ②  能不能同时出 会计/高企/加计扣除三套口径 ； ③  能不能生成 备查文档和问询回复可以直接引用的底稿 。对方说差异率  ≤1%—— 这个差异率是在谁的账上算的、出事谁举证？ \"",
+   "action": "不做替代叙事；谈数据上游合作",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.2（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-obj-01",
+   "competitor_id": "",
+   "form": "异议处理",
+   "scenario": "\" 我们有  Excel/ 钉钉就够了 \"",
+   "response": "\"Excel  的问题不是记不记，是 改不改得了 。易加增材的保代就是因为工时台账事后补编被警示的。 \"",
+   "action": "支撑弹药：监管处罚案例",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.3（2026-09-18）"
+  },
+  {
+   "id": "pb-obj-02",
+   "competitor_id": "",
+   "form": "异议处理",
+   "scenario": "\"AI  现在什么都能做 \"",
+   "response": "\"AI  能帮你算得快，但 不能替你在问询函上签字 。审计师认的是数据源，不是算得快。 \"",
+   "action": "支撑弹药：问询回复案例",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.3（2026-09-18）"
+  },
+  {
+   "id": "pb-obj-09",
+   "competitor_id": "",
+   "form": "异议处理",
+   "scenario": "\" 我们  OA/PLM  里已经有研发管理了 \"",
+   "response": "\" 研发过程数据  ≠  可审计证据。就看三个能不能：不可篡改、三套口径、备查底稿。 \"",
+   "action": "支撑弹药：形态  7  话术",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.3（2026-09-18）"
+  },
+  {
+   "id": "pb-close-01",
+   "competitor_id": "",
+   "form": "收口话术",
+   "scenario": "收口一（《问询责任对照表》现场用（弹药卡 ammo-appendix-a，草稿待业务确认））",
+   "response": "\"这七行里，前六行是能不能过的问题，第七行是该不该信的问题。如果您选的方案在前六行有空格，第七行又签不了承诺书，那您省下的钱会在问询阶段还回去——而且还不止一次。\"",
+   "action": "配套：《问询责任对照表》（弹药卡 ammo-appendix-a，草稿待业务确认）",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.4（2026-09-18）"
+  },
+  {
+   "id": "pb-close-02",
+   "competitor_id": "",
+   "form": "收口话术",
+   "scenario": "收口二（任何\"免费/便宜\"场景）",
+   "response": "\"不比功能，我们比一件事——出了问题谁承担。\"",
+   "action": "配套：《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认）",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.4（2026-09-18）"
+  },
+  {
+   "id": "pb-respond-taikesi",
+   "competitor_id": "taikesi",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.1）",
+   "response": "PLAYBOOK 形态 2（咨询先行派） ——\" 顾问做判断，系统保数据 \" ；收口递交《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） 《独立性承诺书》",
+   "action": "档案行号 530；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.1（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-xinlianyun",
+   "competitor_id": "xinlianyun",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.2）",
+   "response": "PLAYBOOK 形态 8（政府背书/区域平台派）+ 《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） —— 不否定其政府资历，直接切 \" 独立性  +  谁承担问询责任 \" ；同时 抢培训席位 （向深圳  2–3  个区级科技局 / 园区递交 \" 企业侧研发费合规专场 \" 讲师申请）",
+   "action": "档案行号 550；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.2（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-jinchengzhiyan",
+   "competitor_id": "jinchengzhiyan",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.3）",
+   "response": "形态 4（三问法） 照读； 内容反击 ：必须发出《答错的人后来怎么样了》 —— 用沪〔 2026 〕 27  号（华铭智能销售费用错记为研发费用、上会所罚没  445.47  万）追到 后果层 ，这是  200+  案例密度才能支撑的维度",
+   "action": "档案行号 568；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.3（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-yanfamao",
+   "competitor_id": "yanfamao",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.4）",
+   "response": "形态  5  变体 ——\"AI  能帮你算得快，但不能替你在问询函上签字 \"",
+   "action": "档案行号 585；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.4（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-noming",
+   "competitor_id": "noming",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.5）",
+   "response": "①  对客纪律： 引用其厂商名单与排名须打折 ； ②  我方内容侧应对：用 有文书号的处罚案例 做答案级内容，压过 \" 榜单类 \" 内容的可信度； ③  建议把 \" 品牌澄清  +  权威渠道统一主体信息 \" 提前（ GEO  占位）",
+   "action": "档案行号 600；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.5（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-xiaoyantong",
+   "competitor_id": "xiaoyantong",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.6）",
+   "response": "形态  2 ； 主动接触念桐类机构的交付团队，谈\"顾问用系统\"合作 （把它从对手谈成渠道）",
+   "action": "档案行号 615；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.6（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-weila",
+   "competitor_id": "weila",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.7）",
+   "response": "形态  5——\" 研发管理工具解决的是项目推进，我们要解决的是税务和  IPO  认不认 \" ； 飞书生态反制 ：评估把 \" 数据回写  +  合规底稿导出 \" 做成飞书内的可发现能力",
+   "action": "档案行号 631；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.7（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-qidianzhongkewei",
+   "competitor_id": "qidianzhongkewei",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.8）",
+   "response": "形态 1 + 《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） ；同城防守：抢深圳区级科技局 / 园区的高企申报培训席位；产品演示对冲 —— 现场演示 「工时数据的时间戳与不可篡改日志」 （打包派最做不出来的部分）",
+   "action": "档案行号 645；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.8（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-qichengzhiyuan",
+   "competitor_id": "qichengzhiyuan",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.9）",
+   "response": "形态  1 （打包派责任切分） —— 补贴是 \" 拿到钱 \" ，合规是 \" 守住钱 \" ；现场用《问询责任对照表》逐行勾选责任划分（弹药卡 ammo-appendix-a，草稿待业务确认）",
+   "action": "档案行号 661；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.9（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-yongyou",
+   "competitor_id": "yongyou",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.10）",
+   "response": "形态 10 ：先承认其核算与申报能力，再切分责任边界；主推 \" 跨 ERP 中立 \" ；对多  ERP  并存集团客户这是最强切入点",
+   "action": "档案行号 676；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.10（2026-09-18）",
+   "objection": [
+    {
+     "id": "obj-32",
+     "dept": "IT",
+     "dept_focus": "部署与对接：公有云还是私有化、能不能接现有系统",
+     "phase": "售前",
+     "objection": "企业提问SAP系统接口由谁负责打通，以及实施周期。",
+     "answer": "系统接口由独角鲸这边负责打通，SAP系统提供接口访问权限。在独角鲸系统上线后，有一个月企业费用数据作为验证后，接口可在一到两周完成打通实施。",
+     "verified": true,
+     "sys_ok": "是",
+     "basis": "内部原件·微盘（客户问题管理.xlsx，售前售后问题整理，2026-09-24 直读原件）"
+    }
+   ]
+  },
+  {
+   "id": "pb-respond-jindie",
+   "competitor_id": "jindie",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.11）",
+   "response": "形态  10 ； 渠道反制 ：金蝶渠道商的 \" 免费研发费诊断 \" 是我方前端截流风险点 —— 应主动与金蝶服务商谈 互补性合作 （我方做它做不了的那一段）",
+   "action": "档案行号 692；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.11（2026-09-18）",
+   "objection": [
+    {
+     "id": "obj-32",
+     "dept": "IT",
+     "dept_focus": "部署与对接：公有云还是私有化、能不能接现有系统",
+     "phase": "售前",
+     "objection": "企业提问SAP系统接口由谁负责打通，以及实施周期。",
+     "answer": "系统接口由独角鲸这边负责打通，SAP系统提供接口访问权限。在独角鲸系统上线后，有一个月企业费用数据作为验证后，接口可在一到两周完成打通实施。",
+     "verified": true,
+     "sys_ok": "是",
+     "basis": "内部原件·微盘（客户问题管理.xlsx，售前售后问题整理，2026-09-24 直读原件）"
+    }
+   ]
+  },
+  {
+   "id": "pb-respond-hande",
+   "competitor_id": "hande",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.12）",
+   "response": "形态 6 + 口径三问 ；定位话术： \" 如果您明年就要报材料，您需要的是一个能上线、能出三套口径、能导底稿的产品，而不是一个还在排期的开发项目 \" ； 反向机会 ：它项目组手上仍有大量拟  IPO  客户，优先谈 \" 合规数据底座 \" 分包 —— 终止 H 股后这个窗口比它路演期间更好谈",
+   "action": "档案行号 707；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.12（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-zhishikai",
+   "competitor_id": "zhishikai",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.13）",
+   "response": "形态  7  三个 \" 能不能 \" ； 不要与它比\"差异率 ≤1%\"这个数字 ，直接把它切到 \" 这个差异率是在谁的账上算的、出事谁举证 \" ； 不接\"替代 PLM\"需求，把它谈成数据上游渠道",
+   "action": "档案行号 724；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.13（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-fangxinjiuou",
+   "competitor_id": "fangxinjiuou",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.14）",
+   "response": "形态  4 （三问法：工时怎么采集  /  谁陪答问询  /  做过几家拟  IPO ） +  形态  9 （中介工具  vs  企业资产）； 不降价",
+   "action": "档案行号 737；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.14（2026-09-18）",
+   "objection": [
+    {
+     "id": "obj-32",
+     "dept": "IT",
+     "dept_focus": "部署与对接：公有云还是私有化、能不能接现有系统",
+     "phase": "售前",
+     "objection": "企业提问SAP系统接口由谁负责打通，以及实施周期。",
+     "answer": "系统接口由独角鲸这边负责打通，SAP系统提供接口访问权限。在独角鲸系统上线后，有一个月企业费用数据作为验证后，接口可在一到两周完成打通实施。",
+     "verified": true,
+     "sys_ok": "是",
+     "basis": "内部原件·微盘（客户问题管理.xlsx，售前售后问题整理，2026-09-24 直读原件）"
+    }
+   ]
+  },
+  {
+   "id": "pb-respond-yanbangzhu",
+   "competitor_id": "yanbangzhu",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.15）",
+   "response": "形态  2 （ \" 顾问做判断，系统保数据 \" ） +  《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） ； 渠道动作：主动接触其交付团队谈\"顾问用系统\" —— 它的城市合伙人模式缺的正是标准化交付工具；区域盯防：一旦出现 深圳/广州/上海分支招聘 立即升级上报",
+   "action": "档案行号 756；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.15（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-gaojingyanguanjia",
+   "competitor_id": "gaojingyanguanjia",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.16）",
+   "response": "形态  2 +  形态  8  的混合：不否定其研究院资历，但把对比切到 \" 口径解释权不在机构，在监管 \"—— 用沪〔 2026 〕 27  号原话（ \" 应分类为销售费用 \" ）说明 口径正确性由业务实质决定，不由机构身份决定 ；盯其研究院口径输出与驻场陪跑项目中标",
+   "action": "档案行号 775；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.16（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-yuanfangshuju",
+   "competitor_id": "yuanfangshuju",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.18）",
+   "response": "不与其拼地推密度； 用渠道代理制覆盖下沉市场 （我方出内核与交付标准，本地服务商出客户与现场服务）",
+   "action": "档案行号 801；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.18（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-huayang",
+   "competitor_id": "huayang",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.19）",
+   "response": "形态 11（资本圈层/决策层流量池派）+ 《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） ；反问客户： \" 它既做您的 IPO 辅导、又卖您系统，这个角色合适吗？ \" ； 反向学习 ：我方也应加强与创投机构、 IPO  服务机构、董秘社群的生态合作",
+   "action": "档案行号 816；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.19（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-zhishikai-\"PLM",
+   "competitor_id": "zhishikai",
+   "form": "（见 14.1 形态速查）",
+   "scenario": "面对智石开 / PLM 系：\"PLM  里已经有研发项目和工时了 \"",
+   "response": "\" 研发过程数据  ≠  可审计的合规证据。就看三个 ' 能不能 ' ： ①  工时能不能证明 不可事后篡改 ； ②  能不能同时出 会计/高企/加计扣除三套口径 ； ③  能不能生成 备查文档和问询回复可以直接引用的底稿 。对方说差异率  ≤1%—— 这个差异率是在谁的账上算的、出事谁举证？ \"",
+   "action": "不做替代叙事；谈数据上游合作",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第十四章 14.2（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-xinyanbao",
+   "competitor_id": "xinyanbao",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.17）",
+   "response": "威胁（高，本轮渠道杀伤力最强） ；应对： 形态 3 + 《独立性承诺书》条款要点（弹药卡 ammo-appendix-b，草稿待业务确认） ——\" 出具鉴证意见的所同时卖系统，独立性如何自证？ \"",
+   "action": "档案行号 795；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.17（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-zhenghe",
+   "competitor_id": "zhenghe",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.20）",
+   "response": "威胁（中高） ；应对：形态  9  渠道化  +  形态  8  的 \" 独立性 \" 切割",
+   "action": "档案行号 837；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.20（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-chanyanchuangfuyanfabao",
+   "competitor_id": "chanyanchuangfuyanfabao",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.20）",
+   "response": "威胁（中） ；应对：形态  8 ；跨区域多政策口径是我方基础能力， 不与其竞争单省政策匹配",
+   "action": "档案行号 839；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.20（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-qizhidao",
+   "competitor_id": "qizhidao",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.20）",
+   "response": "威胁（中高） ；应对： 形态 9 渠道化 —— 它是获客入口，我方可做其生态内的 \" 合规模块 \"",
+   "action": "档案行号 835；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.20（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-zhongxiruan",
+   "competitor_id": "zhongxiruan",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.20）",
+   "response": "威胁（中，观察） ；但 该案例是\"资本开始为赛道加价\"的信号，可用于我方融资/战略叙事",
+   "action": "档案行号 836；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.20（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-jinyouzi",
+   "competitor_id": "jinyouzi",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.20）",
+   "response": "威胁（中高） ；应对： 形态 8 ——\" 推荐名单和标准解决的是 ' 怎么做规范 ' ，不解决 ' 出了事谁举证 '\"",
+   "action": "档案行号 838；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.20（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-zhiyanshuitong",
+   "competitor_id": "zhiyanshuitong",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.17）",
+   "response": "威胁（高且紧迫，同城） ；应对： 现在是介入窗口 —— 优先向我方已合作 / 意向事务所做 \" 品牌  +  案例  +  独立性 \" 三件套加固；不与其比白标价格",
+   "action": "档案行号 796；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.17（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-yanfeibao",
+   "competitor_id": "yanfeibao",
+   "form": "竞争应对（第七章档案）",
+   "scenario": "应对（报告 7.17）",
+   "response": "威胁（中） ；应对： 深圳市注协场合必须有我方身影 （抢讲席 / 合作），并在事务所渠道推 \" 我方为工具方、不抢鉴证 \" 的定位",
+   "action": "档案行号 797；字段名照抄报告原文",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "报告第七章 7.17（2026-09-18）",
+   "objection": []
+  },
+  {
+   "id": "pb-respond-yousairderp",
+   "competitor_id": "yousairderp",
+   "form": "竞争应对（M12 参考模板）",
+   "scenario": "面对优赛 RDERP：客户说「优赛云也是研发管理 + 费用核算一体化」",
+   "response": "优赛云的核心定位是\"研发管理数字化平台：项目全周期管理 + 研发费用核算一体化\"，胜在\"企业内部基础管理的全面性\"；独角鲸聚焦\"研发费用合规管控\"，适配不同需求优先级——若客户当前优先诉求是合规深度与问询应对，我方更适配（依据：M12 参考模板《优赛云与独角鲸研发费管理系统对比及选型建议》核心定位/核心优势标签两行原文）。",
+   "action": "按 M12 参考模板逐模块功能对比表展开；不做替代叙事",
+   "forbidden": null,
+   "forbidden_basis": null,
+   "source": "对比模板_优赛云.docx.md（M12 参考模板，2026-09）",
+   "objection": []
+  }
+ ],
+ "customer_persona": [
+  {
+   "segment": "拟 IPO（申报前 12–24 月）",
+   "pain": "问询回复、内控有效性",
+   "decision_chain": null,
+   "tactic": "主打：审计级工时台账 + 200+ 案例 + 问询回复模板库；备料：监管处罚案例集、发行类第 9 号指引解读、过会案例；对手：泰克思 / 明欣 / 研帮主 / 高景研管家 → 形态 2 ；金诚智研 → 形态 4"
+  },
+  {
+   "segment": "高新技术企业（含复审）",
+   "pain": "研发费占比达标、被撤销风险",
+   "decision_chain": null,
+   "tactic": "主打：多口径核算 + 高企口径一键出表；备料：高企撤销数据、占比不达标案例、江西 / 江苏撤销公示；对手：企殿 / 中科为 → 形态 1 ；政和 / 博士科技 → 形态 9"
+  },
+  {
+   "segment": "加计扣除（汇算清缴）",
+   "pain": "备查文档、稽查风险",
+   "decision_chain": null,
+   "tactic": "主打：备查文档批量生成 + 稽查应对；备料：稽查案例、文书号清单；对手：方欣九鸥 / 云科税通 → 形态 4 ；事务所渠道派 → 形态 3"
+  },
+  {
+   "segment": "已上市公司（年审）",
+   "pain": "研发费用核算连续性、审计调整",
+   "decision_chain": null,
+   "tactic": "主打：与审计师协同、数据可回写；备料：沪〔 2026 〕 27 号（华铭智能案）、事务所合作案例；对手：用友 / 金蝶 → 形态 10"
+  },
+  {
+   "segment": "集团/多主体（多 ERP 并存）",
+   "pain": "多口径、多主体合并、异构系统",
+   "decision_chain": null,
+   "tactic": "主打：五维穿透 + 集团视图 + 跨 ERP 中立；备料：集团级实施方法论、 SAP/Oracle 对接说明；对手：用友/金蝶/汉得 → 形态 10（最强切入点）"
+  },
+  {
+   "segment": "研发内控未建立的中小高企",
+   "pain": "不会写制度、没人做",
+   "decision_chain": null,
+   "tactic": "主打：\"帮我把制度写出来\"的服务化交付；备料：制度模板库、驻场方法论；对手：研帮主 / 高景研管家 → 形态 2"
+  },
+  {
+   "segment": "已聘四大/咨询机构的拟 IPO",
+   "pain": "顾问要数据，企业给不出",
+   "decision_chain": null,
+   "tactic": "主打：\"我们不替代顾问，我们给顾问交付数据\"；备料：数据接口说明、底稿交付格式；对手：安永 / 普华永道 / 德勤 → 形态 2（合作优先）"
+  },
+  {
+   "segment": "研发与生产共线/受托研发/国拨课题",
+   "pain": "边界判断 + 可核查数据",
+   "decision_chain": null,
+   "tactic": "主打：判断意见 + 五维穿透取证；备料：复杂边界判定案例集；对手：泰克思 + 明欣（其判断力强） → 形态 2，主打\"顾问做判断，系统保数据\""
+  }
+ ],
+ "objection_index": {
+  "jindie": [
+   {
+    "id": "obj-32",
+    "dept": "IT",
+    "dept_focus": "部署与对接：公有云还是私有化、能不能接现有系统",
+    "phase": "售前",
+    "objection": "企业提问SAP系统接口由谁负责打通，以及实施周期。",
+    "answer": "系统接口由独角鲸这边负责打通，SAP系统提供接口访问权限。在独角鲸系统上线后，有一个月企业费用数据作为验证后，接口可在一到两周完成打通实施。",
+    "verified": true,
+    "sys_ok": "是",
+    "basis": "内部原件·微盘（客户问题管理.xlsx，售前售后问题整理，2026-09-24 直读原件）"
+   }
+  ],
+  "fangxinjiuou": [
+   {
+    "id": "obj-32",
+    "dept": "IT",
+    "dept_focus": "部署与对接：公有云还是私有化、能不能接现有系统",
+    "phase": "售前",
+    "objection": "企业提问SAP系统接口由谁负责打通，以及实施周期。",
+    "answer": "系统接口由独角鲸这边负责打通，SAP系统提供接口访问权限。在独角鲸系统上线后，有一个月企业费用数据作为验证后，接口可在一到两周完成打通实施。",
+    "verified": true,
+    "sys_ok": "是",
+    "basis": "内部原件·微盘（客户问题管理.xlsx，售前售后问题整理，2026-09-24 直读原件）"
+   }
+  ],
+  "8manage": [
+   {
+    "id": "obj-32",
+    "dept": "IT",
+    "dept_focus": "部署与对接：公有云还是私有化、能不能接现有系统",
+    "phase": "售前",
+    "objection": "企业提问SAP系统接口由谁负责打通，以及实施周期。",
+    "answer": "系统接口由独角鲸这边负责打通，SAP系统提供接口访问权限。在独角鲸系统上线后，有一个月企业费用数据作为验证后，接口可在一到两周完成打通实施。",
+    "verified": true,
+    "sys_ok": "是",
+    "basis": "内部原件·微盘（客户问题管理.xlsx，售前售后问题整理，2026-09-24 直读原件）"
+   }
+  ],
+  "yongyou": [
+   {
+    "id": "obj-32",
+    "dept": "IT",
+    "dept_focus": "部署与对接：公有云还是私有化、能不能接现有系统",
+    "phase": "售前",
+    "objection": "企业提问SAP系统接口由谁负责打通，以及实施周期。",
+    "answer": "系统接口由独角鲸这边负责打通，SAP系统提供接口访问权限。在独角鲸系统上线后，有一个月企业费用数据作为验证后，接口可在一到两周完成打通实施。",
+    "verified": true,
+    "sys_ok": "是",
+    "basis": "内部原件·微盘（客户问题管理.xlsx，售前售后问题整理，2026-09-24 直读原件）"
+   }
+  ]
+ },
+ "objection_note": "客户问答是我方通用问答，不属于任何竞品。此处只挂真关联（问答原文提到该竞品或该形态特征）；未命中即空，通用异议见异议库。"
+}

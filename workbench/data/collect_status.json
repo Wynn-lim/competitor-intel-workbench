@@ -1,0 +1,377 @@
+{
+ "ok": true,
+ "generated_at": "2026-10-08T17:57:51.043279",
+ "total_evidence": 3847,
+ "pending": 3846,
+ "accepted": 1,
+ "rejected": 0,
+ "blocked_sites": 3528,
+ "last_run": "2026-10-08T17:57:50.934132",
+ "coverage": {
+  "scope": 44,
+  "covered": 1,
+  "rate": 2.3
+ },
+ "grid": {
+  "taikesi": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "yanfamao": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "pending",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "jinchengzhiyan": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "noming": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "xiaoyantong": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "pending",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "weila": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "qidianzhongkewei": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "qichengzhiyuan": {
+   "price": "accepted",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "pending",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "aceteamwork": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "none",
+   "recent_action": "pending"
+  },
+  "yibankeji": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "boyanEchuang": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "youfuyanfafeiyongguanlixitong": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "none",
+   "recent_action": "pending"
+  },
+  "fanqianzhe": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "tengke": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "yousairderp": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "yingguangzhi": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "hezhiyan": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "none",
+   "recent_action": "pending"
+  },
+  "zhangwang": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "eipd": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "8manage": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "qizhidao": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "zhenghe": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "pending",
+   "channels": "pending",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "yongyou": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "jindie": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "yiqiying": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "fangxinjiuou": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "hesi": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "huilianyi": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "meikekeji": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "anyongey": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "puhuayongdaopwc": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "deqindeloitte": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "yanbangzhu": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "hande": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "xinlianyun": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "pending",
+   "channels": "pending",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "yanwuyou": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "zhikoudaicaishui": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "huayang": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "pending"
+  },
+  "boshikeji": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "none",
+   "recent_action": "pending"
+  },
+  "gaojingyanguanjia": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "none",
+   "recent_action": "pending"
+  },
+  "xinyanbao": {
+   "price": "pending",
+   "scale": "pending",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "none",
+   "recent_action": "pending"
+  },
+  "hunankede": {
+   "price": "pending",
+   "scale": "none",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "pending",
+   "recent_action": "none"
+  },
+  "jiruihuiyantong": {
+   "price": "pending",
+   "scale": "none",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "none",
+   "recent_action": "pending"
+  },
+  "zhiyanshuitong": {
+   "price": "pending",
+   "scale": "none",
+   "target_customer": "none",
+   "channels": "none",
+   "product": "none",
+   "recent_action": "none"
+  }
+ },
+ "fields": [
+  "price",
+  "scale",
+  "target_customer",
+  "channels",
+  "product",
+  "recent_action"
+ ]
+}

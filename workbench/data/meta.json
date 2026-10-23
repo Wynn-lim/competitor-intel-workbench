@@ -1,0 +1,13 @@
+{
+ "data_as_of": "2026-10-22 09:00",
+ "generated_at": "2026-10-22T16:40:34",
+ "counts": {
+  "competitors": 137,
+  "events": 120,
+  "policies": 18,
+  "playbook": 66,
+  "to_verify": 428,
+  "pages": 138
+ },
+ "demo": false
+}

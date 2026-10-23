@@ -1,0 +1,1370 @@
+{
+ "generated_at": "2026-09-23 16:37",
+ "profile_id_default": "default",
+ "items": {
+  "taikesi": {
+   "name": "泰克思",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": true,
+   "manual_fields": [
+    "edited_at",
+    "edited_by",
+    "summary"
+   ],
+   "priority": "P0",
+   "summary": "【人工改写】这是销售手动写的一句话。"
+  },
+  "yanfamao": {
+   "name": "研发猫",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 研发猫 与 独角鲸·研发费管理系统。对手公开定位为「AI 四账合一」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实优势见第五部分第 2 节。"
+  },
+  "jinchengzhiyan": {
+   "name": "金诚智研",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 金诚智研 与 独角鲸·研发费管理系统。对手公开定位为「工时 + 成本核算，合同 - 项目全链路」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实优势"
+  },
+  "noming": {
+   "name": "诺明",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 诺明 与 独角鲸·研发费管理系统。对手公开定位为「工时驱动合规， PSA+TTA 双产品线」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实优势见第"
+  },
+  "xiaoyantong": {
+   "name": "小研通",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 小研通 与 独角鲸·研发费管理系统。对手公开定位为「IPO 研发合规，人员行为一致性 / 全链条留痕」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真"
+  },
+  "qichengzhiyuan": {
+   "name": "启程智远（力企·研发费用管理系统）",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 启程智远（力企·研发费用管理系统） 与 独角鲸·研发费管理系统。对手公开定位为「惠企补贴 + 政企培训 + 科创资质认定， \" 事前防控 + 全程留痕 + 闭环合规 \"」；我方以三层护城河（数据层/口径层/责任层）与200+上市及"
+  },
+  "qidianzhongkewei": {
+   "name": "企殿（中科为集团）",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 企殿（中科为集团） 与 独角鲸·研发费管理系统。对手公开定位为「审计 + 税务双重视角的全周期数字化存证平台」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据"
+  },
+  "weila": {
+   "name": "维拉工时",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 维拉工时 与 独角鲸·研发费管理系统。对手公开定位为「IPO 研发工时合规」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实优势见第五部分第 2 节"
+  },
+  "xinlianyun": {
+   "name": "新链云 AInnex",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 新链云 AInnex 与 独角鲸·研发费管理系统。对手公开定位为「研发全生命周期管理平台，立项 - 工时 - 费用归集 - 证据链 - 政策申报一体化，主打 \" 管理 + 技术 + 财务 + 政策 \" 四维」；我方以三层护城河（数"
+  },
+  "8manage": {
+   "name": "8Manage",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 8Manage 与 独角鲸·研发费管理系统。对手公开定位为「一体化项目管理 + 工时管理（ PPM/ 工时 / 成本）」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附"
+  },
+  "aceteamwork": {
+   "name": "AceTeamwork（AceProject）",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 AceTeamwork（AceProject） 与 独角鲸·研发费管理系统。对手公开定位为「项目型 / 高人力成本行业的工时与全成本核算；官网已直接主打 IPO 研发合规（研发成本自动归集、工时与钉钉 / 企微考 …」；我方以三层"
+  },
+  "anyongey": {
+   "name": "安永 EY",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 安永 EY 与 独角鲸·研发费管理系统。对手公开定位为「量化税务团队自研 iROAD 研发费用加计扣除管理系统」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依"
+  },
+  "boshikeji": {
+   "name": "博士科技（科创海）",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 博士科技（科创海） 与 独角鲸·研发费管理系统。对手公开定位为「科创属性全生命周期数字化管理 SaaS （科创海），含 \" 研发投入合规系统 \" （八大费用自动归集 + 多口径报表 + …」；我方以三层护城河（数据层/口径层/责任"
+  },
+  "boyanEchuang": {
+   "name": "博研E创",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 博研E创 与 独角鲸·研发费管理系统。对手公开定位为「研发费用全链路数字化 SaaS+ 产业政策咨询」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真"
+  },
+  "deqindeloitte": {
+   "name": "德勤 Deloitte",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 德勤 Deloitte 与 独角鲸·研发费管理系统。对手公开定位为「研发与政府激励服务团队 + 自研 Insight Tax」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优"
+  },
+  "eipd": {
+   "name": "eIPD",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 eIPD 与 独角鲸·研发费管理系统。对手公开定位为「IPD 研发全生命周期 + PLM ，费用模块联动项目进度」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证"
+  },
+  "fangxinjiuou": {
+   "name": "方欣九鸥",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 方欣九鸥 与 独角鲸·研发费管理系统。对手公开定位为「研财税一体化智能合规， AI 智能体「鸥小九」；官网明码标价 —— 研管家专业版首年 ¥29,800 / 续费 ¥9,…」；我方以三层护城河（数据层/口径层/责任层）与200+"
+  },
+  "fanqianzhe": {
+   "name": "反潜者",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 反潜者 与 独角鲸·研发费管理系统。对手公开定位为「金税四期下的研发费用合规治理平台」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实优势见第五部分"
+  },
+  "gaojingyanguanjia": {
+   "name": "高景研管家",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 高景研管家 与 独角鲸·研发费管理系统。对手公开定位为「研发管理体系标准化构建 —— 从立项鉴别 → 工时 → 多口径费用 → 证据链，直切加计扣除 / 高企 /IPO 三场景； …」；我方以三层护城河（数据层/口径层/责任层）与"
+  },
+  "hande": {
+   "name": "汉得信息（汉得研发费用管理系统）",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 汉得信息（汉得研发费用管理系统） 与 独角鲸·研发费管理系统。对手公开定位为「异构系统集成型研发费用管理（ SAP / Oracle / 用友 / 金蝶多 ERP 并存场景）。官网新闻中心明确 …」；我方以三层护城河（数据层/口径"
+  },
+  "hesi": {
+   "name": "合思",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 合思 与 独角鲸·研发费管理系统。对手公开定位为「AI 驱动财务收支管理」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实优势见第五部分第 2 节。"
+  },
+  "hezhiyan": {
+   "name": "合智研",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 合智研 与 独角鲸·研发费管理系统。对手公开定位为「研发费用 + 数字化工厂，人 - 时 - 事 - 费 / 用友生态」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附"
+  },
+  "huayang": {
+   "name": "华扬（含资鲸 · 同一资本体系）",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 华扬（含资鲸 · 同一资本体系） 与 独角鲸·研发费管理系统。对手公开定位为「「华扬研发费用智能管理系统」（对外亦称研发工时智能管理系统），标榜 \" 严格对标科创板 IPO 最高标准 \" ， SaaS…」；我方以三层护城河（数据层"
+  },
+  "huilianyi": {
+   "name": "汇联易",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 汇联易 与 独角鲸·研发费管理系统。对手公开定位为「亚太企业财务 AI 基础设施， Spark AI / AI Native」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优"
+  },
+  "hunankede": {
+   "name": "湖南科德（研动力 / 原\"研发工时管理服务系统\"）",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 湖南科德（研动力 / 原\"研发工时管理服务系统\"） 与 独角鲸·研发费管理系统。对手公开定位为「以 \" 研发服务 + AI\" 提供研发全流程服务，软件（ SaaS + 私有化双部署）与咨询一体化」；我方以三层护城河（数据层/口径层"
+  },
+  "jindie": {
+   "name": "金蝶",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 金蝶 与 独角鲸·研发费管理系统。对手公开定位为「PLM+ERP+MES 一体化，云星空 / AI 星空； 金蝶云·星空旗舰版已设\"研发费用管理\"模块 （面向 …」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IP"
+  },
+  "jiruihuiyantong": {
+   "name": "集睿慧研通（慧研通研发合规智慧管理系统）",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 集睿慧研通（慧研通研发合规智慧管理系统） 与 独角鲸·研发费管理系统。对手公开定位为「研发合规数字化 ——AI Agent 实时守护研发合规， \" 系统 + 服务 \" 双轮」；我方以三层护城河（数据层/口径层/责任层）与200+上"
+  },
+  "meikekeji": {
+   "name": "每刻科技",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 每刻科技 与 独角鲸·研发费管理系统。对手公开定位为「AI 费控 + 云财务，业财税档原生一体化」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实优"
+  },
+  "puhuayongdaopwc": {
+   "name": "普华永道 PwC",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 普华永道 PwC 与 独角鲸·研发费管理系统。对手公开定位为「中国研发优惠服务（加计扣除 / 高企 / 研发管理优化）」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附"
+  },
+  "qizhidao": {
+   "name": "企知道",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 企知道 与 独角鲸·研发费管理系统。对手公开定位为「科创大数据生态，科创 GPT 备案 / 420 亿条数据」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据"
+  },
+  "tengke": {
+   "name": "腾科 RD-ERP",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 腾科 RD-ERP 与 独角鲸·研发费管理系统。对手公开定位为「研发创新体系标准化 + RD-ERP + AI Agent」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」"
+  },
+  "xinyanbao": {
+   "name": "信研宝",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 信研宝 与 独角鲸·研发费管理系统。对手公开定位为「研发费加计扣除智能化产品，依托立信审计 / 税务全国网络做背书，属立信 \" 税务 \" 板块的信息化载体」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密"
+  },
+  "yanbangzhu": {
+   "name": "研帮主",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 研帮主 与 独角鲸·研发费管理系统。对手公开定位为「研发效能合规咨询（咨询交付为主，无自有软件产品）」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真"
+  },
+  "yanwuyou": {
+   "name": "研无忧",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 研无忧 与 独角鲸·研发费管理系统。对手公开定位为「研无忧研发费用合规系统 + 财税专家驻点陪跑，六大模块（工时、物资溯源、证据链、多口径报表、驾驶舱、风险预警）」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IP"
+  },
+  "yibankeji": {
+   "name": "一半科技",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 一半科技 与 独角鲸·研发费管理系统。对手公开定位为「流程行业 PLM + 研发成本管理 CST」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实优"
+  },
+  "yingguangzhi": {
+   "name": "萤光智",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 萤光智 与 独角鲸·研发费管理系统。对手公开定位为「研发合规 + 高企管理，五大口径 / 全链路溯源审计」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对"
+  },
+  "yiqiying": {
+   "name": "亿企赢",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 亿企赢 与 独角鲸·研发费管理系统。对手公开定位为「财税 SaaS + 研发费税优，财税 Agentic 2.0 / 犀友大模型」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方"
+  },
+  "yongyou": {
+   "name": "用友",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 用友 与 独角鲸·研发费管理系统。对手公开定位为「业财一体化 + 研发费双线产品。 ① U9 cloud 研发费用管理（ 2024 版新品，官网设 \" 研发费加计扣除 \" 专 …」；我方以三层护城河（数据层/口径层/责任层）与20"
+  },
+  "youfuyanfafeiyongguanlixitong": {
+   "name": "优服研发费用管理系统",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 优服研发费用管理系统 与 独角鲸·研发费管理系统。对手公开定位为「WBS 为中心、工时驱动的研发费 +IPO 合规」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核"
+  },
+  "yousairderp": {
+   "name": "优赛 RDERP",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 优赛 RDERP 与 独角鲸·研发费管理系统。对手公开定位为「研发数智化 RDERP + 科创 AI 智能体」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据"
+  },
+  "zhangwang": {
+   "name": "账王",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 账王 与 独角鲸·研发费管理系统。对手公开定位为「中小企业业财一体，九维核算自动归集研发辅助账」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实优势"
+  },
+  "zhenghe": {
+   "name": "政和科技",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P0",
+   "summary": "本稿对比 政和科技 与 独角鲸·研发费管理系统。对手公开定位为「高企认定 + 政策申报， \" 策问大模型 \"」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我方更优」均附可核证依据；对手真实"
+  },
+  "zhikoudaicaishui": {
+   "name": "知口袋财税",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 知口袋财税 与 独角鲸·研发费管理系统。对手公开定位为「AI+ 企业研发费用智能管控平台，覆盖会计核算 / 加计扣除 / 高企认定三口径，含工时管理与考勤交叉核验」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IP"
+  },
+  "zhiyanshuitong": {
+   "name": "智研税通（原\"嘉益\"）",
+   "tier": "full",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P1",
+   "summary": "本稿对比 智研税通（原\"嘉益\"） 与 独角鲸·研发费管理系统。对手公开定位为「研发费用全流程数字化管理，主打 IPO / 高企 / 加计扣除」；我方以三层护城河（数据层/口径层/责任层）与200+上市及拟IPO案例密度支撑合规结论。所有「我"
+  },
+  "bimaweikpmg": {
+   "name": "毕马威 KPMG",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 毕马威 KPMG 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "caishenye": {
+   "name": "财神爷（研发费用合规系统）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 财神爷（研发费用合规系统） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "chandaozentao": {
+   "name": "禅道 ZenTao",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 禅道 ZenTao 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "chanyanchuangfuyanfabao": {
+   "name": "产研创服研发宝",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 产研创服研发宝 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "chaofangufen": {
+   "name": "超凡股份",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 超凡股份 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "chuangfuyun": {
+   "name": "创赋云（用户所给\"科赋云\"为错误名称）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 创赋云（用户所给\"科赋云\"为错误名称） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "chuangxinyiyun": {
+   "name": "创新易云（品牌方为杭州运酬科技）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 创新易云（品牌方为杭州运酬科技） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "dingjieshuzhi": {
+   "name": "鼎捷数智",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 鼎捷数智 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "fanweiwangluo": {
+   "name": "泛微网络",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 泛微网络 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "fenbeitong": {
+   "name": "分贝通",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 分贝通 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "gaiyagongchang": {
+   "name": "盖雅工场",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 盖雅工场 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "hantangxintong": {
+   "name": "汉唐信通（公司宝）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 汉唐信通（公司宝） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "hexiangincopat": {
+   "name": "合享 incoPat",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 合享 incoPat 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "huanglao": {
+   "name": "荒老（研发工时管理系统）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 荒老（研发工时管理系统） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "huatengruanjian": {
+   "name": "华腾软件",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 华腾软件 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "huisuanzhang": {
+   "name": "慧算账",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 慧算账 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "huiyanfa": {
+   "name": "慧研发",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 慧研发 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "jinkecaizhi": {
+   "name": "金科财智",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 金科财智 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "jinyouzi": {
+   "name": "金柚子",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 金柚子 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "keyanyun": {
+   "name": "科研云",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 科研云 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "langchaohaiyue": {
+   "name": "浪潮海岳",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 浪潮海岳 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "lanlingruanjian": {
+   "name": "蓝凌软件",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 蓝凌软件 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "lishuibao": {
+   "name": "理税宝",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 理税宝 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "liulengjing": {
+   "name": "六棱镜",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 六棱镜 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "ones": {
+   "name": "ONES",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 ONES 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "pingcode": {
+   "name": "PingCode",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 PingCode 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "qichacha": {
+   "name": "企查查",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 企查查 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "qingtianquanshuitong": {
+   "name": "擎天全税通",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 擎天全税通 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "qiqiyun": {
+   "name": "企企云",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 企企云 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "qishuibao": {
+   "name": "企税宝",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 企税宝 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "quanshangyanfatouruhecha": {
+   "name": "券商研发投入核查",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 券商研发投入核查 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "rongcheng": {
+   "name": "容诚 / 立信 / 天健",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 容诚 / 立信 / 天健 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "rongdakeji": {
+   "name": "荣大科技",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 荣大科技 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "ruiyoukeji": {
+   "name": "瑞友科技",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 瑞友科技 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "shuiankeji": {
+   "name": "税安科技",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 税安科技 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "tengke2": {
+   "name": "佰腾科技",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 佰腾科技 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "worktile": {
+   "name": "Worktile（含 PingCode）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 Worktile（含 PingCode） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "xinyongzhonghe": {
+   "name": "信永中和 / 致同",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 信永中和 / 致同 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yanxiaojiang": {
+   "name": "研小匠 OpenRDai（含姊妹品 审小匠 OpenCPAI）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 研小匠 OpenRDai（含姊妹品 审小匠 OpenCPAI） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yanzhenqing": {
+   "name": "研真轻",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 研真轻 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yikeshu": {
+   "name": "壹科数（内容IP\"研发合规说\"）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 壹科数（内容IP\"研发合规说\"） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yuanfangshuju": {
+   "name": "远方数据",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 远方数据 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yuanniankeji": {
+   "name": "元年科技",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 元年科技 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yunjianyecai": {
+   "name": "云简业财",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 云简业财 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yunkeshuitong": {
+   "name": "云科税通",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 云科税通 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yunlianrpms": {
+   "name": "云链 RPMS",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 云链 RPMS 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yunzhangfang": {
+   "name": "云帐房",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 云帐房 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "zhihuiyapatsnap": {
+   "name": "智慧芽 PatSnap",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 智慧芽 PatSnap 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "zhishikai": {
+   "name": "智石开",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 智石开 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "zhiyuanhulian": {
+   "name": "致远互联",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 致远互联 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "zhongshuihuijin": {
+   "name": "中税汇金",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 中税汇金 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "zhongwangruanjian": {
+   "name": "中望软件",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 中望软件 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "zhongxiruan": {
+   "name": "中细软",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 中细软 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "zhubajie": {
+   "name": "猪八戒",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P2",
+   "summary": "本稿对比 猪八戒 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P2），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "aikesite": {
+   "name": "艾克斯特",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 艾克斯特 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "asana": {
+   "name": "Asana",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 Asana 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "chengseyun": {
+   "name": "橙色云",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 橙色云 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "clickup": {
+   "name": "ClickUp",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 ClickUp 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "feishuxiangmu": {
+   "name": "飞书项目 / TAPD / 钉钉项目",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 飞书项目 / TAPD / 钉钉项目 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "heguiyanfaxiaochengxu": {
+   "name": "合规研发小程序",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 合规研发小程序 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "huatianruanjian": {
+   "name": "华天软件",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 华天软件 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "huaweiyun": {
+   "name": "华为云 / 阿里云 / 腾讯云（AI 底座）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 华为云 / 阿里云 / 腾讯云（AI 底座） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "jiandaoyun": {
+   "name": "简道云 / 明道云 / 织信",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 简道云 / 明道云 / 织信 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "jira": {
+   "name": "Jira / Atlassian",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 Jira / Atlassian 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "kexiangyanfafeiyongguanlixitong": {
+   "name": "科象研发费用管理系统",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 科象研发费用管理系统 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "meiyunzhishu": {
+   "name": "美云智数",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 美云智数 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "miduoduo": {
+   "name": "觅多多",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 觅多多 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "mingduzhiyun": {
+   "name": "明度智云",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 明度智云 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "nengkekeji": {
+   "name": "能科科技",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 能科科技 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "ningmengyun": {
+   "name": "柠檬云 / 大账房",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 柠檬云 / 大账房 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "puhuayiyanplm": {
+   "name": "璞华易研 PLM",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 璞华易研 PLM 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "quyuzhangweiyanfafeichangshang": {
+   "name": "区域长尾研发费厂商（华东/华南）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 区域长尾研发费厂商（华东/华南） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "quyuzhangweiyanfafeichangshang2": {
+   "name": "区域长尾研发费厂商（华北·税务加计与工时）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 区域长尾研发费厂商（华北·税务加计与工时） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "sanpinplm": {
+   "name": "三品PLM",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 三品PLM 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "sapconcur": {
+   "name": "SAP Concur / 甄零科技",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 SAP Concur / 甄零科技 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "shuiyantong": {
+   "name": "税研通",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 税研通 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "shumadafangcaxa": {
+   "name": "数码大方 CAXA",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 数码大方 CAXA 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "sipuruanjiansipm": {
+   "name": "思普软件 SIPM",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 思普软件 SIPM 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "suoweixitong": {
+   "name": "索为系统",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 索为系统 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "taimeiyiliao": {
+   "name": "太美医疗",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 太美医疗 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "tempo": {
+   "name": "Tempo",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 Tempo 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "tianyuruanjian": {
+   "name": "天喻软件",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 天喻软件 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "trello": {
+   "name": "Trello",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 Trello 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "wuhankaimu": {
+   "name": "武汉开目",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 武汉开目 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "wukongcaishui": {
+   "name": "悟空财税",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 悟空财税 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "xishui": {
+   "name": "析税（研发费用自查小工具）",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 析税（研发费用自查小工具） 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "xuanjixinxi": {
+   "name": "旋极信息",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 旋极信息 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yancaitong": {
+   "name": "研财通",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 研财通 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yanfeibao": {
+   "name": "研费宝",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 研费宝 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yuanguangruanjian": {
+   "name": "远光软件 / 久其软件 / 普联软件 / 太极股份",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 远光软件 / 久其软件 / 普联软件 / 太极股份 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "yuyu": {
+   "name": "玉钰",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 玉钰 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  },
+  "zhanghuoban": {
+   "name": "账伙伴",
+   "tier": "brief",
+   "profile_id": "default",
+   "frozen": false,
+   "has_manual": false,
+   "manual_fields": [],
+   "priority": "P3",
+   "summary": "本稿对比 账伙伴 与 独角鲸·研发费管理系统。因该竞品公开信息有限（优先级 P3），本稿仅含基础对比，未对对手能力做推断性描述。见客户前请先补充核实。"
+  }
+ }
+}

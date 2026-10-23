@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "updated": "2026-09-21",
+  "profiles": {
+    "default": {
+      "profile_id": "default",
+      "name": "拟IPO / 高企的科技制造企业",
+      "is_default": true,
+      "desc": "我方大多数真实成交客户的通用画像。依据 own.json 核心场景与 200+ 上市/拟IPO案例密度。",
+      "basis": "own.json：核心场景「IPO研发投入合规 / 高企认定 / 加计扣除」；服务科创企业约2,000家，上市及拟IPO案例200+",
+      "fields": {
+        "client_name": "",
+        "industry": "科技制造",
+        "industry_note": "通用口径，不绑定化工/生物医药等细分行业；细分行业只是本画像的变体",
+        "scale": "中大型",
+        "rd_budget": "千万级",
+        "ipo_plan": "有 IPO 计划或 3–5 年内考虑资本化",
+        "hn_tech": "已认定或在申高新技术企业",
+        "roles": ["研发", "财务", "人事"],
+        "pain_points": [
+          "多口径归集",
+          "工时与人工费分摊",
+          "税务稽查证据链",
+          "材料/设备成本拆分"
+        ]
+      }
+    },
+    "chemical_ipo": {
+      "profile_id": "chemical_ipo",
+      "name": "拟IPO 化工企业",
+      "is_default": false,
+      "desc": "default 的变体：高能耗、多物料、工艺保密需求强。",
+      "fields": {
+        "industry": "化工",
+        "industry_note": "高能耗设备、多物料/废料、工艺保密",
+        "scale": "中大型",
+        "rd_budget": "≥1000万",
+        "ipo_plan": "有",
+        "hn_tech": "是",
+        "roles": ["研发", "财务", "仓库", "生产"],
+        "pain_points": [
+          "多口径归集",
+          "工时与人工费分摊",
+          "税务稽查证据链",
+          "物料全周期追溯",
+          "设备能耗分摊",
+          "工艺保密（私有化部署）"
+        ]
+      }
+    },
+    "manufacturing_hn": {
+      "profile_id": "manufacturing_hn",
+      "name": "制造业高企（无近期 IPO 计划）",
+      "is_default": false,
+      "desc": "default 的变体：维持高企资质与稽查应对为主，无资本化诉求。",
+      "fields": {
+        "industry": "制造",
+        "industry_note": "通用制造口径",
+        "scale": "中大型",
+        "rd_budget": "500-1000万",
+        "ipo_plan": "无",
+        "hn_tech": "是",
+        "roles": ["研发", "财务"],
+        "pain_points": [
+          "多口径归集",
+          "工时与人工费分摊",
+          "高企研发费占比维持",
+          "税务稽查证据链"
+        ]
+      }
+    },
+    "sm_rd": {
+      "profile_id": "sm_rd",
+      "name": "中小研发企业（预算敏感）",
+      "is_default": false,
+      "desc": "default 的变体：只要基础管理，预算有限，合规压力较轻。",
+      "fields": {
+        "industry": "通用",
+        "industry_note": "通用口径",
+        "scale": "中小",
+        "rd_budget": "<500万",
+        "ipo_plan": "无",
+        "hn_tech": "否",
+        "roles": ["研发", "财务"],
+        "pain_points": [
+          "研发台账电子化",
+          "工时记录",
+          "基础费用归集"
+        ]
+      }
+    }
+  },
+  "fallback": "default"
+}

@@ -1,0 +1,2437 @@
+{
+ "version": 1,
+ "updated": "2026-09-24",
+ "source": "collector/pages.yaml",
+ "items": [
+  {
+   "url": "http://www.ccgp.gov.cn",
+   "name": "中国政府采购网",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "P0",
+   "selector": "h2,h3",
+   "keyword_only": [
+    "研发",
+    "加计",
+    "高新技术"
+   ],
+   "note": "政策监控固定源",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://baike.baidu.com/item/%E5%B0%8F%E7%A0%94%E9%80%9A",
+   "name": "小研通",
+   "competitor_id": "xiaoyantong",
+   "competitor_name": "小研通",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "已知失败-百度安全验证反爬403，requests无法通过，仅人工浏览器可查（原URL缺词条名已修正）｜M19：百科页非官网且 403，已标 blocked。小研通无独立官网（搜索只有软件下载站），母体 new-turn.com.cn 栏目页 JS 动态加载且不含小研通关键词，不能替代。小研通动态改由 B 类 search_watch 搜索式监控覆盖",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "2026-09-24",
+    "fail_count": 1,
+    "status": "blocked"
+   }
+  },
+  {
+   "url": "http://dimeno.com",
+   "name": "xinlianyun",
+   "competitor_id": "xinlianyun",
+   "competitor_name": "新链云 AInnex",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "第七章关键页（价格/新闻）｜HTTPS 证书验证失败，已改用 http（实测 200）",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://qichengcom.com/#/news",
+   "name": "启程智远（力企·研发费用管理系统）",
+   "competitor_id": "qichengzhiyuan",
+   "competitor_name": "启程智远（力企·研发费用管理系统）",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://taxtech.com.cn",
+   "name": "taikesi",
+   "competitor_id": "taikesi",
+   "competitor_name": "泰克思",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [
+    "价格",
+    "报价",
+    "元"
+   ],
+   "note": "第七章关键页（价格/新闻）",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://taxtech.com.cn/about",
+   "name": "泰克思",
+   "competitor_id": "taikesi",
+   "competitor_name": "泰克思",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://timesheet.cn/HelpCenter/219.html",
+   "name": "诺明",
+   "competitor_id": "noming",
+   "competitor_name": "诺明",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.163.com/dy/article/L1PRGF9C0556NMM4.html",
+   "name": "新链云 AInnex",
+   "competitor_id": "xinlianyun",
+   "competitor_name": "新链云 AInnex",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.chinatax.gov.cn/chinatax/n810341/n810755/index.html",
+   "name": "国家税务总局-政策文件",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "P0",
+   "selector": "h2,h3",
+   "keyword_only": [
+    "研发",
+    "加计",
+    "高新技术"
+   ],
+   "note": "政策监控固定源",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.gov.cn/zhengce/zuixin/",
+   "name": "中国政府网-最新政策",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "P0",
+   "selector": "h3",
+   "keyword_only": [
+    "研发",
+    "加计",
+    "高新技术"
+   ],
+   "note": "政策监控固定源",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.iteschina.com/zh-cn/exhibitor-list/details/14029",
+   "name": "企殿（中科为集团）",
+   "competitor_id": "qidianzhongkewei",
+   "competitor_name": "企殿（中科为集团）",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/flfg/index.html",
+   "name": "工信部-政策文件",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "P0",
+   "selector": "h2,h3",
+   "keyword_only": [
+    "研发",
+    "加计",
+    "高新技术"
+   ],
+   "note": "20260920 URL改版迁移（jgsj旧路径404，新路径实测200且h1命中）",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.norming.com.cn/news/",
+   "name": "noming",
+   "competitor_id": "noming",
+   "competitor_name": "诺明",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "第七章关键页（价格/新闻）",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.sse.com.cn/disclosure/",
+   "name": "上交所-审核动态",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "P0",
+   "selector": "h2,h3",
+   "keyword_only": [
+    "研发",
+    "加计",
+    "高新技术"
+   ],
+   "note": "已知失败-上交所WAF对非浏览器请求一律403（加Referer无效）",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.szse.cn/disclosure/",
+   "name": "深交所-公告",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "P0",
+   "selector": "h2,h3",
+   "keyword_only": [
+    "研发",
+    "加计",
+    "高新技术"
+   ],
+   "note": "20260920 URL改版迁移（announcement子路径404，根页实测200且h2命中）",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://eipd.com.cn/AboutUs.asp",
+   "name": "eIPD",
+   "competitor_id": "eipd",
+   "competitor_name": "eIPD",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://gj-zx.com",
+   "name": "高景研管家",
+   "competitor_id": "gaojingyanguanjia",
+   "competitor_name": "高景研管家",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://www.gdyskc.com/service_list.html",
+   "name": "优赛 RDERP",
+   "competitor_id": "yousairderp",
+   "competitor_name": "优赛 RDERP",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://aceteamwork.com/products/aceauto",
+   "name": "AceTeamwork（AceProject）",
+   "competitor_id": "aceteamwork",
+   "competitor_name": "AceTeamwork（AceProject）",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://finance.sina.com.cn/roll/2026-07-13/doc-inihspyt4161750.shtml",
+   "name": "华扬（含资鲸 · 同一资本体系）",
+   "competitor_id": "huayang",
+   "competitor_name": "华扬（含资鲸 · 同一资本体系）",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://jouyun.com",
+   "name": "方欣九鸥",
+   "competitor_id": "fangxinjiuou",
+   "competitor_name": "方欣九鸥",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://kch.boshiyun.com.cn/",
+   "name": "博士科技（科创海）",
+   "competitor_id": "boshikeji",
+   "competitor_name": "博士科技（科创海）",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://szjyfm.com",
+   "name": "智研税通（原\"嘉益\"）",
+   "competitor_id": "zhiyanshuitong",
+   "competitor_name": "智研税通（原\"嘉益\"）",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://u9cloud.yonyou.com/news/detailes/news/934.html",
+   "name": "用友",
+   "competitor_id": "yongyou",
+   "competitor_name": "用友",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.cnblogs.com/newzq2/p/22526401",
+   "name": "博研E创",
+   "competitor_id": "boyanEchuang",
+   "competitor_name": "博研E创",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.deloitte.com/content/dam/assets-zone1/cn/zh/docs/services/tax/2024/deloitte-cn-tax-newsflash-zh-181012.pdf",
+   "name": "德勤 Deloitte",
+   "competitor_id": "deqindeloitte",
+   "competitor_name": "德勤 Deloitte",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.djckb.com/finance/20250901/80803.html",
+   "name": "反潜者",
+   "competitor_id": "fanqianzhe",
+   "competitor_name": "反潜者",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.ey.com/zh_cn/insights/tax-planning/how-can-tax-benefits-incentivize-private-enterprises-to-innovate-technologically",
+   "name": "安永 EY",
+   "competitor_id": "anyongey",
+   "competitor_name": "安永 EY",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.gzjirui.com/",
+   "name": "集睿慧研通（慧研通研发合规智慧管理系统）",
+   "competitor_id": "jiruihuiyantong",
+   "competitor_name": "集睿慧研通（慧研通研发合规智慧管理系统）",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.hand-china.com/news.html?tag_id=22&page=7",
+   "name": "汉得信息（汉得研发费用管理系统）",
+   "competitor_id": "hande",
+   "competitor_name": "汉得信息（汉得研发费用管理系统）",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.hosecloud.com/about/procurement.html",
+   "name": "合思",
+   "competitor_id": "hesi",
+   "competitor_name": "合思",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.huilianyi.com",
+   "name": "汇联易",
+   "competitor_id": "huilianyi",
+   "competitor_name": "汇联易",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.maycur.com/product_info_list/1780",
+   "name": "每刻科技",
+   "competitor_id": "meikekeji",
+   "competitor_name": "每刻科技",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.pwccn.com/zh/services/tax/china-rd-incentive-service.html",
+   "name": "普华永道 PwC",
+   "competitor_id": "puhuayongdaopwc",
+   "competitor_name": "普华永道 PwC",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.rdtax.cc",
+   "name": "研无忧",
+   "competitor_id": "yanwuyou",
+   "competitor_name": "研无忧",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.szkingdee.com/xinwendongtai/950.html",
+   "name": "金蝶",
+   "competitor_id": "jindie",
+   "competitor_name": "金蝶",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.szufxx.com/yffy.html",
+   "name": "优服研发费用管理系统",
+   "competitor_id": "youfuyanfafeiyongguanlixitong",
+   "competitor_name": "优服研发费用管理系统",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.tkinno.cn/aboutus.html",
+   "name": "腾科 RD-ERP",
+   "competitor_id": "tengke",
+   "competitor_name": "腾科 RD-ERP",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.zhongkewei.com/researchdevelopmentPage",
+   "name": "中科为",
+   "competitor_id": "qidianzhongkewei2",
+   "competitor_name": "",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://yiban.com.cn/CST",
+   "name": "一半科技",
+   "competitor_id": "yibankeji",
+   "competitor_name": "一半科技",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://zct.zhenghe.cn",
+   "name": "政和科技",
+   "competitor_id": "zhenghe",
+   "competitor_name": "政和科技",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://zhihoutai.com/",
+   "name": "知口袋财税",
+   "competitor_id": "zhikoudaicaishui",
+   "competitor_name": "知口袋财税",
+   "priority": "P1",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://zsiko.com/news.php",
+   "name": "zhishikai",
+   "competitor_id": "zhishikai",
+   "competitor_name": "智石开",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "第七章关键页（价格/新闻）",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://rd.gxcycf.com",
+   "name": "产研创服研发宝",
+   "competitor_id": "chanyanchuangfuyanfabao",
+   "competitor_name": "产研创服研发宝",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://www.huatengsoft.com.cn/",
+   "name": "华腾软件",
+   "competitor_id": "huatengruanjian",
+   "competitor_name": "华腾软件",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://www.spca.org.cn/list_memberInfo.asp?Company_ID=O202615",
+   "name": "金柚子",
+   "competitor_id": "jinyouzi",
+   "competitor_name": "金柚子",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://www.ykst.com/about",
+   "name": "云科税通",
+   "competitor_id": "yunkeshuitong",
+   "competitor_name": "云科税通",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://www.zbj.com",
+   "name": "猪八戒",
+   "competitor_id": "zhubajie",
+   "competitor_name": "猪八戒",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://yunlianpaas.com/index.aspx",
+   "name": "云链 RPMS",
+   "competitor_id": "yunlianrpms",
+   "competitor_name": "云链 RPMS",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://cxglw.com/",
+   "name": "创新易云（品牌方为杭州运酬科技）",
+   "competitor_id": "chuangxinyiyun",
+   "competitor_name": "创新易云（品牌方为杭州运酬科技）",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://digiwin.com/t.php/news/14643.html",
+   "name": "鼎捷数智",
+   "competitor_id": "dingjieshuzhi",
+   "competitor_name": "鼎捷数智",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://kpmg.com/cn/en/services/tax/r-and-d-tax-incentives-and-government-special-subsidies-advisory-services.html",
+   "name": "毕马威 KPMG",
+   "competitor_id": "bimaweikpmg",
+   "competitor_name": "毕马威 KPMG",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://m.gongsibao.com/article-14279.html",
+   "name": "汉唐信通（公司宝）",
+   "competitor_id": "hantangxintong",
+   "competitor_name": "汉唐信通（公司宝）",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://m.huisuanzhang.com/us.htm",
+   "name": "慧算账",
+   "competitor_id": "huisuanzhang",
+   "competitor_name": "慧算账",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://ones.cn",
+   "name": "ONES",
+   "competitor_id": "ones",
+   "competitor_name": "ONES",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://pingcode.com/about",
+   "name": "PingCode",
+   "competitor_id": "pingcode",
+   "competitor_name": "PingCode",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://worktile.com/about",
+   "name": "Worktile（含 PingCode）",
+   "competitor_id": "worktile",
+   "competitor_name": "Worktile（含 PingCode）",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.77hub.com/about",
+   "name": "企企云",
+   "competitor_id": "qiqiyun",
+   "competitor_name": "企企云",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.ai-tax.cn/",
+   "name": "税安科技",
+   "competitor_id": "shuiankeji",
+   "competitor_name": "税安科技",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.baiten.cn/product/gq",
+   "name": "佰腾科技",
+   "competitor_id": "tengke2",
+   "competitor_name": "佰腾科技",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.chofn.com",
+   "name": "超凡股份",
+   "competitor_id": "chaofangufen",
+   "competitor_name": "超凡股份",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.ciprun.com/aboutus",
+   "name": "中细软",
+   "competitor_id": "zhongxiruan",
+   "competitor_name": "中细软",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.cloudpense.com",
+   "name": "云简业财",
+   "competitor_id": "yunjianyecai",
+   "competitor_name": "云简业财",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.csrc.gov.cn/csrc/c101802/c7445462/content.shtml",
+   "name": "券商研发投入核查",
+   "competitor_id": "quanshangyanfatouruhecha",
+   "competitor_name": "券商研发投入核查",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.fenbeitong.com/info/16331",
+   "name": "分贝通",
+   "competitor_id": "fenbeitong",
+   "competitor_name": "分贝通",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.gaiaworks.cn/solution/labor-hour",
+   "name": "盖雅工场",
+   "competitor_id": "gaiyagongchang",
+   "competitor_name": "盖雅工场",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.incopat.com",
+   "name": "合享 incoPat",
+   "competitor_id": "hexiangincopat",
+   "competitor_name": "合享 incoPat",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.inspur.com",
+   "name": "浪潮海岳",
+   "competitor_id": "langchaohaiyue",
+   "competitor_name": "浪潮海岳",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.qcc.com",
+   "name": "企查查",
+   "competitor_id": "qichacha",
+   "competitor_name": "企查查",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.qixin.com/ability/6c45c175-ff58-4851-8c3d-8038a5651cc3",
+   "name": "远方数据",
+   "competitor_id": "yuanfangshuju",
+   "competitor_name": "远方数据",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.qxshj.com/cpzx",
+   "name": "研真轻",
+   "competitor_id": "yanzhenqing",
+   "competitor_name": "研真轻",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.rayootech.com/",
+   "name": "瑞友科技",
+   "competitor_id": "ruiyoukeji",
+   "competitor_name": "瑞友科技",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://www.rdkj.com",
+   "name": "荣大科技",
+   "competitor_id": "rongdakeji",
+   "competitor_name": "荣大科技",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "已知失败-官网为JS渲染SPA空壳（https证书损坏已绕开，但静态无标题可盯）",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.rsm.global/china/zh-hans/insights/ipochenggongmimayanfarendingxinguixiangjie",
+   "name": "容诚",
+   "competitor_id": "rongcheng",
+   "competitor_name": "容诚 / 立信 / 天健",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.seeyon.com",
+   "name": "致远互联",
+   "competitor_id": "zhiyuanhulian",
+   "competitor_name": "致远互联",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.shinewing.com/tax/service",
+   "name": "信永中和",
+   "competitor_id": "xinyongzhonghe",
+   "competitor_name": "信永中和 / 致同",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.sixlens.com",
+   "name": "六棱镜",
+   "competitor_id": "liulengjing",
+   "competitor_name": "六棱镜",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.sohu.com/a/843721485_120980317",
+   "name": "科研云",
+   "competitor_id": "keyanyun",
+   "competitor_name": "科研云",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.weaver.com.cn",
+   "name": "泛微网络",
+   "competitor_id": "fanweiwangluo",
+   "competitor_name": "泛微网络",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.yunzhangfang.com",
+   "name": "云帐房",
+   "competitor_id": "yunzhangfang",
+   "competitor_name": "云帐房",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.zhihuiya.com",
+   "name": "智慧芽 PatSnap",
+   "competitor_id": "zhihuiyapatsnap",
+   "competitor_name": "智慧芽 PatSnap",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www1.hkexnews.hk/app/sehk/2026/108617/documents/sehk26060502522_c.pdf",
+   "name": "擎天全税通",
+   "competitor_id": "qingtianquanshuitong",
+   "competitor_name": "擎天全税通",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://zentao.net/about.mhtml",
+   "name": "禅道 ZenTao",
+   "competitor_id": "chandaozentao",
+   "competitor_name": "禅道 ZenTao",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://zsiko.com/",
+   "name": "智石开",
+   "competitor_id": "zhishikai",
+   "competitor_name": "智石开",
+   "priority": "P2",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://www.midoodoo.com/",
+   "name": "觅多多",
+   "competitor_id": "miduoduo",
+   "competitor_name": "觅多多",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://aiqicha.baidu.com/company_basic_55034057077581",
+   "name": "税研通",
+   "competitor_id": "shuiyantong",
+   "competitor_name": "税研通",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://aiqicha.baidu.com/company_detail_42336939370586",
+   "name": "玉钰",
+   "competitor_id": "yuyu",
+   "competitor_name": "玉钰",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://asana.com",
+   "name": "Asana",
+   "competitor_id": "asana",
+   "competitor_name": "Asana",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://clickup.com",
+   "name": "ClickUp",
+   "competitor_id": "clickup",
+   "competitor_name": "ClickUp",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://trello.com",
+   "name": "Trello",
+   "competitor_id": "trello",
+   "competitor_name": "Trello",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.2099.com.cn/",
+   "name": "悟空财税",
+   "competitor_id": "wukongcaishui",
+   "competitor_name": "悟空财税",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.atlassian.com",
+   "name": "Jira",
+   "competitor_id": "jira",
+   "competitor_name": "Jira / Atlassian",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "http://www.caxa.com/",
+   "name": "数码大方 CAXA",
+   "competitor_id": "shumadafangcaxa",
+   "competitor_name": "数码大方 CAXA",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "已知失败-官网JS渲染无静态h1/h2/h3（https返回405已绕开）；附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.concur.com",
+   "name": "SAP Concur",
+   "competitor_id": "sapconcur",
+   "competitor_name": "SAP Concur / 甄零科技",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.extech.com.cn",
+   "name": "艾克斯特",
+   "competitor_id": "aikesite",
+   "competitor_name": "艾克斯特",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.hoteamsoft.com",
+   "name": "华天软件",
+   "competitor_id": "huatianruanjian",
+   "competitor_name": "华天软件",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.huaweicloud.com",
+   "name": "华为云",
+   "competitor_id": "huaweiyun",
+   "competitor_name": "华为云 / 阿里云 / 腾讯云（AI 底座）",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.hustcad.com",
+   "name": "天喻软件",
+   "competitor_id": "tianyuruanjian",
+   "competitor_name": "天喻软件",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.jiandaoyun.com",
+   "name": "简道云",
+   "competitor_id": "jiandaoyun",
+   "competitor_name": "简道云 / 明道云 / 织信",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.kmsoft.com.cn",
+   "name": "武汉开目",
+   "competitor_id": "wuhankaimu",
+   "competitor_name": "武汉开目",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.mingdutech.com",
+   "name": "明度智云",
+   "competitor_id": "mingduzhiyun",
+   "competitor_name": "明度智云",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.nancal.com",
+   "name": "能科科技",
+   "competitor_id": "nengkekeji",
+   "competitor_name": "能科科技",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.ningmengyun.com",
+   "name": "柠檬云",
+   "competitor_id": "ningmengyun",
+   "competitor_name": "柠檬云 / 大账房",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.orangecds.com",
+   "name": "橙色云",
+   "competitor_id": "chengseyun",
+   "competitor_name": "橙色云",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.purvar.com/",
+   "name": "璞华易研 PLM",
+   "competitor_id": "puhuayiyanplm",
+   "competitor_name": "璞华易研 PLM",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.sipm.com.cn",
+   "name": "思普软件 SIPM",
+   "competitor_id": "sipuruanjiansipm",
+   "competitor_name": "思普软件 SIPM",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.taimei.com",
+   "name": "太美医疗",
+   "competitor_id": "taimeiyiliao",
+   "competitor_name": "太美医疗",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.tempo.io",
+   "name": "Tempo",
+   "competitor_id": "tempo",
+   "competitor_name": "Tempo",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.watertek.com/",
+   "name": "旋极信息",
+   "competitor_id": "xuanjixinxi",
+   "competitor_name": "旋极信息",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://www.ygsoft.com",
+   "name": "远光软件",
+   "competitor_id": "yuanguangruanjian",
+   "competitor_name": "远光软件 / 久其软件 / 普联软件 / 太极股份",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://zhanghuoban.com/",
+   "name": "账伙伴",
+   "competitor_id": "zhanghuoban",
+   "competitor_name": "账伙伴",
+   "priority": "P3",
+   "selector": "h1,h2,h3",
+   "keyword_only": [],
+   "note": "附录一",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "unknown"
+   }
+  },
+  {
+   "url": "https://tuoyinshuke.com/",
+   "name": "研发猫·首页",
+   "competitor_id": "yanfamao",
+   "competitor_name": "研发猫",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "研发猫",
+    "研发费用",
+    "四账合一",
+    "拓银"
+   ],
+   "note": "M19 第 1 步补 P0 零源；首页，验证 HTTP 200 / 372932B，title「研发猫官网-研发费用管理系统-研发费用合规-IPO合规-研发合规-企业研发全流程」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "http://www.jczy.net/",
+   "name": "金诚智研·首页",
+   "competitor_id": "jinchengzhiyan",
+   "competitor_name": "金诚智研",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "金诚智研",
+    "工时",
+    "成本",
+    "项目"
+   ],
+   "note": "M19 第 1 步补 P0 零源；首页，验证 HTTP 200 / 59207B，title「金诚智研 工时管理系统-项目协作系统-成本管理软件 | 协作让管理变简单」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://www.vividlog.com/",
+   "name": "维拉工时·首页",
+   "competitor_id": "weila",
+   "competitor_name": "维拉工时",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "维拉",
+    "工时",
+    "研发"
+   ],
+   "note": "M19 第 1 步补 P0 零源；首页，验证 HTTP 200 / 94982B，title「维拉工时记录系统-简单的工时记录，研发工时，项目管理系统」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://www.vividlog.com/pricing",
+   "name": "维拉工时·价格页",
+   "competitor_id": "weila",
+   "competitor_name": "维拉工时",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "维拉",
+    "工时",
+    "研发"
+   ],
+   "note": "M19 第 1 步补 P0 零源；价格页，验证 HTTP 200 / 149272B，title「维拉工时记录系统 - 产品定价」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://www.tuoyinshuke.com/",
+   "name": "研发猫·首页",
+   "competitor_id": "yanfamao",
+   "competitor_name": "研发猫",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "研发猫",
+    "四账合一",
+    "研发费用"
+   ],
+   "note": "M19 第 2 步：P0 零源补齐。运营主体深圳拓银数科；首页 SPA，静态抓无 href｜实测 HTTP 200 / 404696B",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://jczy.net/channels/1339.html",
+   "name": "金诚智研·研发费用系统",
+   "competitor_id": "jinchengzhiyan",
+   "competitor_name": "金诚智研",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [
+    "研发费用",
+    "归集",
+    "口径"
+   ],
+   "note": "M19 第 2 步：产品页（规划方核实）｜实测 HTTP 200 / 36660B",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://jczy.net/channels/1332.html",
+   "name": "金诚智研·工时管理",
+   "competitor_id": "jinchengzhiyan",
+   "competitor_name": "金诚智研",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [
+    "工时",
+    "上市公司",
+    "IPO"
+   ],
+   "note": "M19 第 2 步：原文「上市公司、IPO 公司、投资人的刚需」——与我方 IPO 工时口径正面撞车｜实测 HTTP 200 / 36700B",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://jczy.net/channels/1355-2.html",
+   "name": "金诚智研·产品组合与版本",
+   "competitor_id": "jinchengzhiyan",
+   "competitor_name": "金诚智研",
+   "priority": "P0",
+   "selector": "h1,h2,h3,table",
+   "keyword_only": [
+    "基本版",
+    "专业版",
+    "增强版",
+    "价格"
+   ],
+   "note": "M19 第 2 步：版本/价格线索（基本版·专业版·增强版三档）｜实测 HTTP 200 / 31752B",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://jczy.net/channels/1358.html",
+   "name": "金诚智研·动态栏目",
+   "competitor_id": "jinchengzhiyan",
+   "competitor_name": "金诚智研",
+   "priority": "P0",
+   "selector": "h1,h2,h3,a",
+   "keyword_only": [
+    "金诚智研"
+   ],
+   "note": "M19 第 2 步：栏目性质待首轮人工确认｜实测 HTTP 200 / 63602B",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://www.jczy.net/channels/1346-2.html",
+   "name": "金诚智研·合同管理",
+   "competitor_id": "jinchengzhiyan",
+   "competitor_name": "金诚智研",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [
+    "合同",
+    "项目"
+   ],
+   "note": "M19 第 2 步：差异化主张「无合同、不项目」｜实测 HTTP 200 / 36948B",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "http://vividlog.com/docs",
+   "name": "维拉工时·产品文档",
+   "competitor_id": "weila",
+   "competitor_name": "维拉工时",
+   "priority": "P0",
+   "selector": "h1,h2,h3,a",
+   "keyword_only": [
+    "维拉",
+    "工时"
+   ],
+   "note": "M19 第 2 步：产品文档（规划方核实 200 / 14KB）｜实测 HTTP 200 / 14091B",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://open.work.weixin.qq.com/appStore/app?appId=MTk3MDMyNTExNDA3MDUzN18xMDU4ODcwXzE%3D",
+   "name": "维拉工时·企微商店（客户评价）",
+   "competitor_id": "weila",
+   "competitor_name": "维拉工时",
+   "priority": "P0",
+   "selector": "h1,h2,h3",
+   "keyword_only": [
+    "维拉",
+    "工时",
+    "评价"
+   ],
+   "note": "M19 第 2 步：客户原话 + 版本更新日志。⚠️ 已被保荐人渠道推荐（威胁级）｜实测 HTTP 200 / 735183B",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://taxtech.com.cn/news",
+   "name": "泰克思·新闻页",
+   "competitor_id": "taikesi",
+   "competitor_name": "泰克思",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "泰克思",
+    "研发费用",
+    "IPO",
+    "加计",
+    "税务"
+   ],
+   "note": "M19 第 2 步：P0 补页；新闻页，实测 HTTP 200 / 11878B，title「资讯中心 - 泰克思」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://www.norming.com.cn/",
+   "name": "诺明·首页",
+   "competitor_id": "noming",
+   "competitor_name": "诺明",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "诺明",
+    "工时",
+    "研发",
+    "PSA",
+    "项目"
+   ],
+   "note": "M19 第 2 步：P0 补页；首页，实测 HTTP 200 / 400259B，title「诺明软件-项目管理软件_工时管理软件_费用管控软件_事务所一体化管理软件」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "http://www.gdyskc.com/",
+   "name": "优赛 RDERP·首页",
+   "competitor_id": "yousairderp",
+   "competitor_name": "优赛 RDERP",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "优赛",
+    "研发",
+    "ERP",
+    "费用"
+   ],
+   "note": "M19 第 2 步：P0 补页；首页，实测 HTTP 200 / 168302B，title「优赛科创 | 研发创新体系标准化服务 | 知识产权服务 | 东莞市优赛科」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://zhenghe.cn/",
+   "name": "政和科技·首页",
+   "competitor_id": "zhenghe",
+   "competitor_name": "政和科技",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "政和",
+    "策问",
+    "高企",
+    "研发",
+    "认定"
+   ],
+   "note": "M19 第 2 步：P0 补页；首页，实测 HTTP 200 / 368981B，title「政和科技-产业赋能的中国引领者」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://timesheet.cn/",
+   "name": "诺明·工时·首页",
+   "competitor_id": "noming",
+   "competitor_name": "诺明",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "诺明",
+    "工时",
+    "PSA",
+    "研发"
+   ],
+   "note": "M19 第 2 步：P0 补页；首页，实测 HTTP 200 / 46551B，title「诺明TTA研发费用管理系统_研发费用加计扣除_IPO审计合规」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "http://www.gdyskc.com/news.html",
+   "name": "优赛 RDERP·新闻页",
+   "competitor_id": "yousairderp",
+   "competitor_name": "优赛 RDERP",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "优赛",
+    "研发",
+    "费用",
+    "科创"
+   ],
+   "note": "M19 第 2 步三轮：首页抽链接；新闻页，实测 200 / 117321B，title「新闻中心-优赛科创 | 研发创新体系标准化服务 | 知识产权服务 |」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://zhenghe.cn/product/zct",
+   "name": "政和科技·产品页",
+   "competitor_id": "zhenghe",
+   "competitor_name": "政和科技",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "政和",
+    "策问",
+    "高企",
+    "研发",
+    "认定"
+   ],
+   "note": "M19 第 2 步三轮：首页抽链接；产品页，实测 200 / 332626B，title「政和科技-产业赋能的中国引领者」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "http://dimeno.com/news",
+   "name": "新链云 AInnex·最新动态",
+   "competitor_id": "xinlianyun",
+   "competitor_name": "新链云 AInnex",
+   "priority": "P0",
+   "selector": "h1,h2,h3,a",
+   "keyword_only": [
+    "维度",
+    "新链云",
+    "AInnex",
+    "研发"
+   ],
+   "note": "M19 第 2 步三轮：实测 200 / 25976B，title「维度数据科技—最新动态和资讯」",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "http://www.new-turn.com.cn/",
+   "name": "小研通母体·上海念桐（间接源）",
+   "competitor_id": "xiaoyantong",
+   "competitor_name": "小研通",
+   "priority": "P0",
+   "selector": "h1,h2,h3,title",
+   "keyword_only": [
+    "念桐",
+    "研发",
+    "咨询",
+    "小研通"
+   ],
+   "note": "M19：小研通无独立官网，挂母体站作间接源。实测 200 / 19883B；栏目页 JS 动态加载，只盯首页 title 变化",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "http://www.cninfo.com.cn/new/fulltextSearch?notautosubmit=&keyWord={kw}",
+   "name": "巨潮资讯-公告全文检索",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "",
+   "selector": "",
+   "keyword_only": [],
+   "note": "M19 实测 200 / 75649B / 可见文本 29356 字，静态直抓可用。用友/金蝶/汉得/蓝凌/中望/元年等上市竞品的公告、年报、招股书第一信源。query 参数 keyWord={kw}",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://www.ccopyright.com.cn/index.php?optionid=1127&auto_id=41",
+   "name": "版权保护中心-软著登记",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "",
+   "selector": "",
+   "keyword_only": [],
+   "note": "M19 实测 200 / 29544B / 可见文本 4300 字，可用。软著登记 = 发新版信号（登记日期比官宣早）。需 form 提交软件名称/登记号，参数待实测回填",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "http://search.ccgp.gov.cn/bxsearch?searchtype=1&page_index=1&dbselect=bidx&kw={kw}",
+   "name": "中国政府采购网-中标检索",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "",
+   "selector": "",
+   "keyword_only": [],
+   "note": "M19 实测：连续 3 次返回 200 但内容是「频繁访问!」反爬限流页（2724B/0 条 li），首页也拿不到 cookie。状态码 200 是假象，已按 M19 红线置 blocked，日报源健康度如实报。等限流解除或走 L2 headless 再启用",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "2026-09-24",
+    "fail_count": 2,
+    "status": "blocked"
+   }
+  },
+  {
+   "url": "https://www.bse.cn/",
+   "name": "北交所-审核动态",
+   "competitor_id": "",
+   "competitor_name": "",
+   "priority": "",
+   "selector": "",
+   "keyword_only": [],
+   "note": "M19 实测：根站 200 但仅 345B / 可见文本 0 字（SPA 空壳），所有静态路径 404，pboss 接口也 404。客户主要去北交所，IPO 口径第一信源，但静态抓不到——需 L2 headless 渲染后才可用",
+   "source_health": {
+    "last_ok": "",
+    "last_fail": "2026-09-24",
+    "fail_count": 1,
+    "status": "blocked"
+   }
+  },
+  {
+   "url": "https://www.zhiguangong.com/",
+   "name": "研归宝-官网首页",
+   "competitor_id": "zhiguanan",
+   "competitor_name": "研归宝",
+   "priority": "P2",
+   "selector": "title",
+   "keyword_only": [],
+   "note": "M19 实测 200 / 546KB / 含「研归宝」「研发费用」「加计扣除」关键词。首页是 SPA 但内容服务端渲染，静态可抽",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  },
+  {
+   "url": "https://www.zhiguangong.com/product",
+   "name": "研归宝-产品中心",
+   "competitor_id": "zhiguanan",
+   "competitor_name": "研归宝",
+   "priority": "P2",
+   "selector": "title",
+   "keyword_only": [],
+   "note": "M19 实测 200。研归宝无独立详情页，五个产品线（研归宝/六项机制/轻型MES/工程巡查/水库物业）都归在这页，盯这页 = 盯全部产品变化",
+   "source_health": {
+    "last_ok": "2026-09-24",
+    "last_fail": "",
+    "fail_count": 0,
+    "status": "ok"
+   }
+  }
+ ],
+ "stats": {
+  "total_pages": 138,
+  "competitor_pages": 128,
+  "generic_sources": 10,
+  "covered_competitors": 105,
+  "total_competitors": 137,
+  "zero_source": {
+   "total": 33,
+   "by_priority": {
+    "P1": 9,
+    "P2": 13,
+    "P3": 11
+   },
+   "ids": [
+    "yingguangzhi",
+    "hezhiyan",
+    "zhangwang",
+    "8manage",
+    "qizhidao",
+    "yiqiying",
+    "yanbangzhu",
+    "lishuibao",
+    "qishuibao",
+    "zhongshuihuijin",
+    "feishuxiangmu",
+    "yuanniankeji",
+    "lanlingruanjian",
+    "zhongwangruanjian",
+    "meiyunzhishu",
+    "sanpinplm",
+    "suoweixitong",
+    "quyuzhangweiyanfafeichangshang",
+    "quyuzhangweiyanfafeichangshang2",
+    "xinyanbao",
+    "hunankede",
+    "huiyanfa",
+    "huanglao",
+    "chuangfuyun",
+    "yikeshu",
+    "jinkecaizhi",
+    "caishenye",
+    "yanxiaojiang",
+    "kexiangyanfafeiyongguanlixitong",
+    "yancaitong",
+    "yanfeibao",
+    "xishui",
+    "heguiyanfaxiaochengxu"
+   ]
+  },
+  "p0_below_3": {
+   "count": 4,
+   "ids": [
+    "yanfamao",
+    "xiaoyantong",
+    "qidianzhongkewei",
+    "qichengzhiyuan"
+   ]
+  },
+  "p1_below_2": {
+   "count": 33,
+   "ids": [
+    "aceteamwork",
+    "yibankeji",
+    "boyanEchuang",
+    "youfuyanfafeiyongguanlixitong",
+    "fanqianzhe",
+    "tengke",
+    "yingguangzhi",
+    "hezhiyan",
+    "zhangwang",
+    "eipd",
+    "8manage",
+    "qizhidao",
+    "yongyou",
+    "jindie",
+    "yiqiying",
+    "fangxinjiuou",
+    "hesi",
+    "huilianyi",
+    "meikekeji",
+    "anyongey",
+    "puhuayongdaopwc",
+    "deqindeloitte",
+    "yanbangzhu",
+    "hande",
+    "yanwuyou",
+    "zhikoudaicaishui",
+    "huayang",
+    "boshikeji",
+    "gaojingyanguanjia",
+    "xinyanbao",
+    "hunankede",
+    "jiruihuiyantong",
+    "zhiyanshuitong"
+   ]
+  },
+  "avg_pages_per_competitor": 1.22
+ }
+}
