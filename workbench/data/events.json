@@ -40,6 +40,126 @@
   "source_note": ""
  },
  {
+  "id": "evt-pol-20261026-4-ind",
+  "date": "2026-10-26",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "类型：税务稽查研发费专项稽查曝光 —— 连续第 22 期零新增（已确认，非遗漏） - 事实：本期命中的全部为旧案或自媒体内容营销，无一起新的官方曝光：西藏慧业医药 1715.99 ",
+  "detail": "来源：竞品日报-2026-10-26.md 政策板块第 4 条",
+  "source_name": "🏛 板块",
+  "source_url": "https://www.sohu.com/a/1091566787_123009747",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-pol-20261026-5-ind",
+  "date": "2026-10-26",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "假政策黑名单·第 14 类·新增「2026 高新认定新规前瞻：发明专利权重或提至 45%」—— 三个新说法全部无文号 - 事实：搜狐 2026-10-26 稿件称「《高新技术企业认",
+  "detail": "来源：竞品日报-2026-10-26.md 政策板块第 5 条",
+  "source_name": "🏛 板块",
+  "source_url": "https://www.sohu.com/a/1091566787_123009747",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-pol-20261027-1-ind",
+  "date": "2026-10-26",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "类型：加计扣除 / 三大误区第 8 个官方背书：国家税务总局江苏省税务局官网 2026-10-26 转载《中国税务报》 - 发文主体：**国家税务总局江苏省税务局**（官网转载《中",
+  "detail": "来源：竞品日报-2026-10-27.md 政策板块第 1 条",
+  "source_name": "🏛 板块",
+  "source_url": "https://jiangsu.chinatax.gov.cn/art/2026/10/26/art_8268_1795757.html",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-pol-20261026-2-ind",
+  "date": "2026-10-25",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "类型：加计扣除 / 三大误区经济日报 2026-10-25《用好研发费用加计扣除政策》—— 第 7 个官方背书，且第一次给出\"留存期不少于 10 年\"的官方口径 - 发文主体：**",
+  "detail": "来源：竞品日报-2026-10-26.md 政策板块第 2 条",
+  "source_name": "🏛 板块",
+  "source_url": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261025_3270254.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261026-2-ind",
+  "date": "2026-10-23",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "头号·本期最值钱·品类监控第 18 条单易普拉格 10 月实际是 10 单不是 6 单，且首次出现「银行当招标人」的采购形态 - 事实一（**存量台账纠错**）：上期记「10 月 ",
+  "detail": "来源：竞品日报-2026-10-26.md 重大板块第 2 条",
+  "source_name": "🔴 板块",
+  "source_url": "https://www.cqggzy.com:91/trade/014012/53f0fa95-53c3-4e21-a14b-308a63d6f9d0?categoryNum=014012004",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261023-3-ind",
+  "date": "2026-10-22",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "新增·品类监控第 17 条单易普拉格第 6 单：杭州医学院科研管理系统 46 万，10 月内 6 单合计 299.3 万，客群已经从高校搬到医学院 + 三甲医院 - 事实：**杭州",
+  "detail": "来源：竞品日报-2026-10-23.md 重大板块第 3 条",
+  "source_name": "🔴 板块",
+  "source_url": "https://www.ccgp.gov.cn/cggg/dfgg/zbgg/202610/t20261022_27546431.htm",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
   "id": "evt-pol-20261022-1-ind",
   "date": "2026-10-21",
   "competitor_id": "",
@@ -60,6 +180,66 @@
   "source_note": ""
  },
  {
+  "id": "evt-maj-20261023-1-ind",
+  "date": "2026-10-21",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "产品发布",
+  "severity": "P0",
+  "title": "头号·新增·本赛道迄今层级最高的政策依据，且首次拿到中国政府网原文中办、国办《关于推动科技创新和产业创新深度融合的意见》2026-10-21 对外发布 —— 第（八）条写明「提高研",
+  "detail": "来源：竞品日报-2026-10-23.md 重大板块第 1 条",
+  "source_name": "🔴 板块",
+  "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-pol-20261023-1-ind",
+  "date": "2026-10-21",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "类型：加计扣除 / 中央文件中办、国办《关于推动科技创新和产业创新深度融合的意见》（2026-10-21） - 发文主体：中共中央办公厅、国务院办公厅（经党中央、国务院同意） - ",
+  "detail": "来源：竞品日报-2026-10-23.md 政策板块第 1 条",
+  "source_name": "🏛 板块",
+  "source_url": "http://fiao.net.cn",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261026-1-ind",
+  "date": "2026-10-20",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "头号·悬案结案·四地原页第一次拿到北京 29 家高企取消公告：官网原页 + PDF 全文 + 完整名单全部取得，落款 2026-10-13 - 事实：此前连续多期只能拿到媒体转述，",
+  "detail": "来源：竞品日报-2026-10-26.md 重大板块第 1 条",
+  "source_name": "🔴 板块",
+  "source_url": "http://www.innocom.gov.cn/gqrdw/c101522/202610/72501303e64542d5b59fa3c8e0b3e1f0.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
   "id": "evt-pol-20261021-1-ind",
   "date": "2026-10-19",
   "competitor_id": "",
@@ -76,6 +256,106 @@
   "impact_note": "",
   "tags": [
    "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261023-5-ind",
+  "date": "2026-10-19",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "跟进第 14 天·剩 6 天中科院 295 万单 10-29 09:30 开标 —— 今天必须给投/不投的答复 - 项目编号 **260123-THHD-ZBDL-0123**，中",
+  "detail": "来源：竞品日报-2026-10-23.md 重大板块第 5 条",
+  "source_name": "🔴 板块",
+  "source_url": "https://gxlvtc.edu.cn/info/1085/55541.htm",
+  "source_level": "B",
+  "impact": "threat",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261023-6-ind",
+  "date": "2026-10-19",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "跟进第 8 天·今天截止·本期新增更名广西物流职院 80 万单：项目已更名，文件获取今天 10-23 关闭 - 项目编号 **GXLY2026-C3-00042-NNZ**。**2",
+  "detail": "来源：竞品日报-2026-10-23.md 重大板块第 6 条",
+  "source_name": "🔴 板块",
+  "source_url": "https://gxlvtc.edu.cn/info/1085/55541.htm",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-pol-20261023-4-ind",
+  "date": "2026-10-19",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "类型：税务稽查研发费专项稽查曝光 —— 连续第 21 期零新增（已确认，非遗漏） - 事实：本期命中的全部为旧案或内容营销，无一起新的官方曝光： - 「上海同腾生物虚报研发费用加计",
+  "detail": "来源：竞品日报-2026-10-23.md 政策板块第 4 条",
+  "source_name": "🏛 板块",
+  "source_url": "http://fiao.net.cn",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261026-3-ind",
+  "date": "2026-10-19",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "跟进第 35 天·今天最后一天10 月征期 10-26 截止 —— 今年最后一个确定窗口，今天关窗 - 事实：企业 10 月份预缴申报第 3 季度（按季）或 9 月份（按月）企业所",
+  "detail": "来源：竞品日报-2026-10-26.md 重大板块第 3 条",
+  "source_name": "🔴 板块",
+  "source_url": "https://gxlvtc.edu.cn/info/1085/55461.htm",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261026-4-ind",
+  "date": "2026-10-19",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "跟进第 17 天·剩 3 天中科院 295 万单 10-29 09:30 开标；广西物流职院 80 万单实质已放弃 - 中科院 295 万单：项目编号 **260123-THHD-",
+  "detail": "来源：竞品日报-2026-10-26.md 重大板块第 4 条",
+  "source_name": "🔴 板块",
+  "source_url": "https://gxlvtc.edu.cn/info/1085/55461.htm",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
   ],
   "source_note": ""
  },
@@ -118,6 +398,126 @@
    "日报重大"
   ],
   "source_note": "链接见日报原文（表格型条目，原文在日报正文）"
+ },
+ {
+  "id": "evt-maj-20261023-t36-ind",
+  "date": "2026-10-16",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "山金国际（000975.SZ）子公司吉林板庙子｜2026-10-16",
+  "detail": "来源：竞品日报-2026-10-23.md 重大板块第 t36 条",
+  "source_name": "🔴 板块",
+  "source_url": "",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": "链接见日报原文（表格型条目，原文在日报正文）"
+ },
+ {
+  "id": "evt-maj-20261027-t47-ind",
+  "date": "2026-10-16",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "江西｜2026-10-16｜[原页](http://www.innocom.gov.cn/gqrdw/c101538/202610/8df91372aa034f57ba1ae3b5",
+  "detail": "来源：竞品日报-2026-10-27.md 重大板块第 t47 条",
+  "source_name": "🔴 板块",
+  "source_url": "http://www.innocom.gov.cn/gqrdw/c101538/202610/8df91372aa034f57ba1ae3b5fc5b3d48.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261027-t45-ind",
+  "date": "2026-10-15",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "江苏｜2026-10-15｜[原页](http://www.innocom.gov.cn/gqrdw/c101532/202610/8fab44cc39db4a47a9c8a1b7",
+  "detail": "来源：竞品日报-2026-10-27.md 重大板块第 t45 条",
+  "source_name": "🔴 板块",
+  "source_url": "http://www.innocom.gov.cn/gqrdw/c101532/202610/8fab44cc39db4a47a9c8a1b77caa5dad.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261027-t48-ind",
+  "date": "2026-10-15",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "上海｜2026-10-15｜[原页](http://www.innocom.gov.cn/gqrdw/c101531/202610/fddd9ceb270340ec993f3639",
+  "detail": "来源：竞品日报-2026-10-27.md 重大板块第 t48 条",
+  "source_name": "🔴 板块",
+  "source_url": "http://www.innocom.gov.cn/gqrdw/c101531/202610/fddd9ceb270340ec993f363963e4081f.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261027-2-ind",
+  "date": "2026-10-15",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "重大·跨期补漏·第一份有明确文号的批次取消山东 365 家（鲁科字〔2026〕91 号）—— 此前五地台账完全没有山东，而它是单份家数第一 + 唯一有正式文号的一份 - 事实：《关",
+  "detail": "来源：竞品日报-2026-10-27.md 重大板块第 2 条",
+  "source_name": "🔴 板块",
+  "source_url": "http://www.innocom.gov.cn/gqrdw/c101539/202608/9f97c5c895584cf081c1080b8e17c873.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261027-3-ind",
+  "date": "2026-10-15",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "认定机构｜2026-10-15｜- 🆕 江西那份是六份里字段最全的一份，附件逐家列出：统一社会信用代码 + 高企证书编号 + 所在地 + 取消资格起始年度（其余五份只给证书编号或干",
+  "detail": "来源：竞品日报-2026-10-27.md 重大板块第 3 条",
+  "source_name": "🔴 板块",
+  "source_url": "http://www.innocom.gov.cn/gqrdw/c101532/202610/8fab44cc39db4a47a9c8a1b77caa5dad.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
  },
  {
   "id": "evt-maj-20261015-t15-ind",
@@ -178,6 +578,86 @@
    "日报重大"
   ],
   "source_note": "链接见日报原文（表格型条目，原文在日报正文）"
+ },
+ {
+  "id": "evt-maj-20261027-t46-ind",
+  "date": "2026-10-13",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "北京｜2026-10-13｜上期已结案",
+  "detail": "来源：竞品日报-2026-10-27.md 重大板块第 t46 条",
+  "source_name": "🔴 板块",
+  "source_url": "",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": "链接见日报原文（表格型条目，原文在日报正文）"
+ },
+ {
+  "id": "evt-maj-20261027-t49-ind",
+  "date": "2026-10-13",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "河南｜2026-10-13｜[原页](http://www.innocom.gov.cn/gqrdw/c101541/202610/a3f5dabacce642bb8f610486",
+  "detail": "来源：竞品日报-2026-10-27.md 重大板块第 t49 条",
+  "source_name": "🔴 板块",
+  "source_url": "http://www.innocom.gov.cn/gqrdw/c101541/202610/a3f5dabacce642bb8f61048680edd96c.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-pol-20261026-1-ind",
+  "date": "2026-10-13",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "类型：高企认定 / 清退北京 29 家取消公告官方原页与 PDF 全文取得（详见 🔴 板块第一条） - 发文主体：北京市科学技术委员会、中关村科技园区管理委员会、北京市财政局、国家",
+  "detail": "来源：竞品日报-2026-10-26.md 政策板块第 1 条",
+  "source_name": "🏛 板块",
+  "source_url": "https://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261025_3270254.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-pol-20261026-3-ind",
+  "date": "2026-10-13",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "跟进第 51 天·仍无文号高企认定管理办法修订 —— 本期新增两条反证，未见任何官方进展 - 事实：《高新技术企业认定管理办法》修订版与配套工作指引**仍未印发**。本期反证：① ",
+  "detail": "来源：竞品日报-2026-10-26.md 政策板块第 3 条",
+  "source_name": "🏛 板块",
+  "source_url": "https://www.xinshao.gov.cn/xinshao/qdgj/202610/c6bfee69d5a4432ebcdd132cb8fecd68.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
  },
  {
   "id": "evt-maj-20261013-2-ind",
@@ -400,6 +880,26 @@
   "source_note": ""
  },
  {
+  "id": "evt-pol-20261027-2-ind",
+  "date": "2026-10-09",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "类型：加计扣除比例两份中央文件名称必须分开，不得混写 - 事实：科技日报 10-26 稿件同时写到两条不同线索： ① **《中共中央 国务院关于发展新质生产力的意见》**（**20",
+  "detail": "来源：竞品日报-2026-10-27.md 政策板块第 2 条",
+  "source_name": "🏛 板块",
+  "source_url": "http://gov.cn",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
   "id": "evt-maj-20261009-1-ind",
   "date": "2026-10-08",
   "competitor_id": "",
@@ -540,6 +1040,26 @@
   "source_note": "链接见日报原文（表格型条目，原文在日报正文）"
  },
  {
+  "id": "evt-maj-20261027-t51-ind",
+  "date": "2026-10-08",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "河北｜2026-10-08｜[原页](http://www.innocom.gov.cn/gqrdw/c101524/202610/782c3bd0171b408499a6cfd4",
+  "detail": "来源：竞品日报-2026-10-27.md 重大板块第 t51 条",
+  "source_name": "🔴 板块",
+  "source_url": "http://www.innocom.gov.cn/gqrdw/c101524/202610/782c3bd0171b408499a6cfd4d69f6c7e.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
   "id": "evt-maj-20261008-3-ind",
   "date": "2026-10-01",
   "competitor_id": "",
@@ -600,6 +1120,66 @@
   "source_note": ""
  },
  {
+  "id": "evt-maj-20261027-t50-ind",
+  "date": "2026-09-30",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "辽宁｜2026-09-30｜[原页](http://www.innocom.gov.cn/gqrdw/c101527/202609/af623f2e5e25484681c8d3fa",
+  "detail": "来源：竞品日报-2026-10-27.md 重大板块第 t50 条",
+  "source_name": "🔴 板块",
+  "source_url": "http://www.innocom.gov.cn/gqrdw/c101527/202609/af623f2e5e25484681c8d3fa7c84c091.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261023-2-ind",
+  "date": "2026-09-30",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "头号·新增·话术弹药升级到官方口径高企清退从「四地 365 家」升级到「全年 3500+ 家、上半年 2624 家同比 +36%」，且首次取得税务系统官网背书 —— 上市公司补税前",
+  "detail": "来源：竞品日报-2026-10-23.md 重大板块第 2 条",
+  "source_name": "🔴 板块",
+  "source_url": "https://guangdong.chinatax.gov.cn/gdsw/zssw_swxw/2026-09/30/content_9bde6abd801f43c495ec45bf58ebcb0a.shtml",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-pol-20261023-2-ind",
+  "date": "2026-09-30",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "类型：高企认定 / 清退2026 年以来全国超 3500 家高企资格被取消；上半年 2624 家、同比 +36% - 发文/背书主体：《中国税务》杂志社特别策划，**国家税务总局广",
+  "detail": "来源：竞品日报-2026-10-23.md 政策板块第 2 条",
+  "source_name": "🏛 板块",
+  "source_url": "http://fiao.net.cn",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
   "id": "evt-maj-20261008-1-ind",
   "date": "2026-09-28",
   "competitor_id": "",
@@ -640,6 +1220,26 @@
   "source_note": ""
  },
  {
+  "id": "evt-pol-20261023-3-ind",
+  "date": "2026-09-28",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P1",
+  "title": "跟进第 48 天·仍无文号高企认定管理办法修订 —— 本期新增两类反证，且首次出现\"把征求意见稿的年份写错\"的假政策 - 事实：《高新技术企业认定管理办法》修订版与配套工作指引**",
+  "detail": "来源：竞品日报-2026-10-23.md 政策板块第 3 条",
+  "source_name": "🏛 板块",
+  "source_url": "http://fiao.net.cn",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报政策"
+  ],
+  "source_note": ""
+ },
+ {
   "id": "evt-产品价格-20260924-weila-94",
   "date": "2026-09-24",
   "competitor_id": "weila",
@@ -656,6 +1256,26 @@
   "impact_note": "",
   "tags": [
    "日报产品价格"
+  ],
+  "source_note": ""
+ },
+ {
+  "id": "evt-maj-20261023-4-ind",
+  "date": "2026-09-24",
+  "competitor_id": "",
+  "competitor_name": "行业 / 政策",
+  "camp": "",
+  "type": "内容动态",
+  "severity": "P0",
+  "title": "新增·中介连带问责第 2 例·首次拿到「研发支出资本化」被追责的完整链条顶立科技因资本化时点内控缺失，西部证券与两名保代二次被北交所口头警示 - 事实：北交所对顶立科技（**874",
+  "detail": "来源：竞品日报-2026-10-23.md 重大板块第 4 条",
+  "source_name": "🔴 板块",
+  "source_url": "https://news.qq.com/rain/a/20261021A01GHB00",
+  "source_level": "B",
+  "impact": "neutral",
+  "impact_note": "",
+  "tags": [
+   "日报重大"
   ],
   "source_note": ""
  },
